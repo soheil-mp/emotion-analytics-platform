@@ -1,0 +1,10 @@
+services:
+  backend:
+    image: soheilmp/emotion-clf-backend:latest
+    ports:
+      - "3120:3120"
+
+  frontend:
+    image: soheilmp/emotion-clf-frontend:latest
+    ports:
+      - "3121:80"

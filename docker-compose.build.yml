@@ -1,0 +1,45 @@
+# Development Docker Compose Configuration with Azure Monitor
+# Use this file for development and testing with local builds
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: soheilmp/emotion-clf-backend:latest
+    ports:
+      - "3120:3120"
+    volumes:
+      - ./src:/app/src
+      - ./models:/models
+      - /tmp:/tmp
+    env_file:
+      - .env
+    environment:
+      - PYTHONPATH=/app
+      - MONITORING_ENABLED=true
+      - ENVIRONMENT=development
+      - LOG_LEVEL=DEBUG
+    container_name: emotion_backend_dev
+    networks:
+      - emotion_network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: soheilmp/emotion-clf-frontend:latest
+    ports:
+      - "3121:80"
+    container_name: emotion_frontend_dev
+    depends_on:
+      - backend
+    networks:
+      - emotion_network
+    restart: unless-stopped
+
+networks:
+  emotion_network:
+    driver: bridge
+    name: emotion_dev_network

@@ -1,0 +1,64 @@
+start_time,end_time,text,emotion,sub-emotion,intensity
+00:00:00,00:00:04,This is Colibrios and it is one of the smallest operating systems in the world.,neutral,neutral,mild
+00:00:04,00:00:09,It's about 1.44 megabytes in size and it can run entirely from a floppy disk.,neutral,neutral,mild
+00:00:09,00:00:19,"So this operating system you can get from colibrios.org There are multiple download options like an ISO image, but that one is about 100 megabytes in size.",neutral,neutral,mild
+00:00:19,00:00:25,"I'll be running this operating system off of this floppy disk image and when we check its size, it's 1.5 megabytes.",neutral,neutral,mild
+00:00:25,00:00:29,Because this number is rounded here we can see the actual size.,neutral,neutral,mild
+00:00:29,00:00:32,"It's 1.5 on the disk, but it's 1.44.",neutral,neutral,mild
+00:00:32,00:00:39,"And by the way, Colibri OS is not Linux, but rather an operating system written entirely in the assembly language.",neutral,neutral,mild
+00:00:39,00:00:47,"It needs a minimum of 8 megabytes of RAM in order to run, but I give it a whole 64 megabytes which is pretty generous for this OS.",neutral,neutral,mild
+00:00:47,00:00:52,Then we need to set it to boot from a floppy disk and give it this image file.,neutral,neutral,mild
+00:00:52,00:00:59,And now we can start up the VM and we see this blue screen and immediately it just boots up just like that.,happiness,excitement,mild
+00:00:59,00:01:01,There's no installation needed.,neutral,neutral,mild
+00:01:01,00:01:03,"It runs straight away, I guess.",neutral,neutral,mild
+00:01:03,00:01:06,Let's just around the system and see what do we have here.,happiness,curiosity,mild
+00:01:06,00:01:10,This OS is just bundled with so many random weird applications.,happiness,curiosity,moderate
+00:01:10,00:01:13,"For example, here's a three dimensional cube just spinning.",neutral,neutral,mild
+00:01:14,00:01:18,There's a code editor in Colibri OS which comes with a bunch of obscure languages.,neutral,neutral,mild
+00:01:19,00:01:22,"I guess not all of them are obscure, but some of them definitely are.",neutral,neutral,mild
+00:01:22,00:01:24,And here we have the System Panel.,neutral,neutral,mild
+00:01:24,00:01:27,It kinda reminds me of the old macOS settings panel.,happiness,curiosity,mild
+00:01:27,00:01:34,We can customize some things and I think there was quite extensive options for desktop customization as well.,happiness,optimism,mild
+00:01:34,00:01:39,We indeed can customize stuff like the panel height and other things for the taskbar.,neutral,neutral,mild
+00:01:39,00:01:41,"Oh, and then there's this one which is called Docky.",happiness,curiosity,mild
+00:01:41,00:01:44,I guess it's kind of like a dock that you would see on Mac os.,happiness,curiosity,mild
+00:01:44,00:01:48,"Yeah, so now we also have a dock at the bottom, which is pretty cool actually.",happiness,excitement,mild
+00:01:48,00:01:54,There's also window settings which allows you to customize all the colors for every smallest little thing.,happiness,optimism,mild
+00:01:54,00:01:58,Right here at the bottom we have some sort of a language selection.,neutral,neutral,mild
+00:01:58,00:02:04,"And the only languages that this has, or at least it seems like it has, is either Russian or English.",neutral,neutral,mild
+00:02:04,00:02:07,Those are the two lang this system available.,neutral,neutral,mild
+00:02:07,00:02:13,"And if we open up this monitor right here, we can see our CPU load and memory usage and every other statistic.",neutral,neutral,mild
+00:02:13,00:02:20,"But what I found interesting is that we can run some tests as well, which may permanently damage the hardware.",happiness,curiosity,mild
+00:02:20,00:02:25,"So if we click on one of them, it basically shoots up our CPU load to a hundred.",fear,fear,moderate
+00:02:25,00:02:27,It doesn't do anything to the memory usage.,neutral,neutral,mild
+00:02:27,00:02:29,I guess it does only to the CPU load.,surprise,realization,mild
+00:02:29,00:02:34,"This is some sort of a version of Microsoft Paint, or I guess I can just call it a painting program.",happiness,curiosity,mild
+00:02:34,00:02:37,Not everything is a Microsoft Paint knockoff.,happiness,amusement,mild
+00:02:37,00:02:41,This really reminds me of one of those super old versions of Microsoft Paint.,happiness,amusement,mild
+00:02:42,00:02:46,"Oh, and what's also possible is that we can browse the Internet on this as well.",happiness,curiosity,mild
+00:02:46,00:02:52,"And if I remember correctly, this browser doesn't even display any CSS or JavaScript.",sadness,disappointment,mild
+00:02:52,00:02:54,So pretty much you can see only text.,neutral,neutral,mild
+00:02:54,00:02:56,You cannot see any images or videos.,neutral,neutral,mild
+00:02:56,00:02:59,It's super basic and not even that usable.,disgust,aversion,mild
+00:02:59,00:03:03,And it seems to use only HTTP instead of HTTPs.,anger,annoyance,moderate
+00:03:03,00:03:07,But there's actually so many different games on this operating system.,happiness,curiosity,mild
+00:03:07,00:03:08,It's the Google Dino game.,neutral,neutral,mild
+00:03:09,00:03:11,I remember Flappy Bird back in the day.,neutral,neutral,mild
+00:03:11,00:03:16,I think people used to go to prison because of this game and smash their phones.,happiness,amusement,moderate
+00:03:16,00:03:18,"We have Tetris, of course.",neutral,neutral,mild
+00:03:19,00:03:20,Snake is there.,neutral,neutral,mild
+00:03:20,00:03:22,"That's quite a fast Snake, actually.",happiness,amusement,mild
+00:03:22,00:03:25,But then we get to something truly outstanding.,happiness,excitement,moderate
+00:03:25,00:03:27,This is the worst thing I have seen so far.,sadness,disappointment,moderate
+00:03:27,00:03:30,It's basically like a lawn mowing simulator.,happiness,curiosity,mild
+00:03:30,00:03:33,Pretty much what you do here is cut some grass.,neutral,neutral,mild
+00:03:34,00:03:36,I really do not understand the point of this game.,surprise,confusion,moderate
+00:03:36,00:03:41,There doesn't seem to be a way to lose and you just cut the grass and that's it.,sadness,disappointment,mild
+00:03:41,00:03:44,"We have Gomoku, which I guess is like Tic Tac toe.",surprise,confusion,mild
+00:03:44,00:03:47,I have never seen a game like this before.,surprise,surprise,mild
+00:03:47,00:03:49,It's like Tic tac toe but on steroids.,happiness,amusement,mild
+00:03:49,00:03:51,You have to collect five of these to win.,neutral,neutral,mild
+00:03:51,00:03:55,"Going back to the 3D demos, there's also something that seems to be playable.",happiness,curiosity,mild
+00:03:55,00:03:58,It's like a three dimensional room where you can walk around.,happiness,curiosity,mild
+00:03:58,00:04:04,I'm pretty sure all of these weird programs are just a flex of what this operating system can do with its small size.,happiness,curiosity,mild
+00:04:05,00:04:10,"Anyway, check out this video how I turned Windows 11 into Mac OS and I'll see you in the next video.",happiness,optimism,mild

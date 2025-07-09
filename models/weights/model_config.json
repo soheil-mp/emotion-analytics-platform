@@ -1,0 +1,23 @@
+{
+    "model_name": "microsoft/deberta-v3-xsmall",
+    "feature_dim": 121,
+    "num_classes": {
+        "emotion": 7,
+        "sub_emotion": 28,
+        "intensity": 3
+    },
+    "hidden_dim": 256,
+    "dropout": 0.3,
+    "output_tasks": [
+        "emotion",
+        "sub_emotion",
+        "intensity"
+    ],
+    "feature_config": {
+        "pos": false,
+        "textblob": false,
+        "vader": false,
+        "tfidf": true,
+        "emolex": true
+    }
+}

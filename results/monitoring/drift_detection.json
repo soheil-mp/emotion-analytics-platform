@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-06-25T23:42:38.701181",
+    "data_drift_score": 0.0,
+    "concept_drift_score": 0.10839820247384624,
+    "data_drift_alert": false,
+    "concept_drift_alert": true,
+    "drift_threshold": 0.05
+  },
+  {
+    "timestamp": "2025-06-25T23:45:52.348162",
+    "data_drift_score": 0.0,
+    "concept_drift_score": 0.05547514955191099,
+    "data_drift_alert": false,
+    "concept_drift_alert": true,
+    "drift_threshold": 0.05
+  },
+  {
+    "timestamp": "2025-06-25T23:45:59.908946",
+    "data_drift_score": 0.0,
+    "concept_drift_score": 0.1083982024738463,
+    "data_drift_alert": false,
+    "concept_drift_alert": true,
+    "drift_threshold": 0.05
+  },
+  {
+    "timestamp": "2025-06-27T10:24:28.826620",
+    "data_drift_score": 0.0,
+    "concept_drift_score": 0.0838085393212229,
+    "data_drift_alert": false,
+    "concept_drift_alert": true,
+    "drift_threshold": 0.05
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-06-25T23:30:58.600428",
+    "error_type": "HTTPException",
+    "endpoint": "predict",
+    "error_details": "Test error for monitoring",
+    "total_errors": 1,
+    "error_rate": 100.0
+  }
+]

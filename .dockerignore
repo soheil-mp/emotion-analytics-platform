@@ -1,0 +1,70 @@
+# Git
+.git
+.gitignore
+.gitattributes
+.github
+
+# Documentation
+README.md
+docs/
+*.md
+*.rst
+
+# Development files
+.vscode/
+.pre-commit-config.yaml
+__pycache__/
+.pytest_cache/
+.coverage
+.tox/
+.env.local
+.env.development
+
+# Testing
+tests/
+test-reports/
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+venv/
+
+# Node.js (for frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+
+# MLflow
+mlruns/
+
+# Jupyter notebooks
+notebooks/
+*.ipynb
+
+# Results
+results/
