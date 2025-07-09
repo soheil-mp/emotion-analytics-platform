@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+:root {
+  --primary: #00ADB5;
+  --primary-light: #40C4CC;
+  --primary-dark: #00969E;
+  --secondary: #393E46;
+  --secondary-light: #565C65;
+  --secondary-dark: #2C3238;
+  --background: #EEEEEE;
+  --paper: #FFFFFF;
+  --text-primary: #222831;
+  --text-secondary: #393E46;
+
+  /* New accent colors */
+  --accent-teal: #00ADB5;
+  --accent-dark: #222831;
+  --accent-medium: #393E46;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background);
+  color: var(--text-primary);
+  /* Enhanced background with multiple gradients */
+  background-image:
+    radial-gradient(circle at top right, rgba(0, 173, 181, 0.08), transparent 450px),
+    radial-gradient(circle at bottom left, rgba(57, 62, 70, 0.09), transparent 450px),
+    radial-gradient(circle at center, rgba(34, 40, 49, 0.04), transparent 400px);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Enhanced scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.03);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 173, 181, 0.15);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 173, 181, 0.25);
+}
+
+/* Enhanced animations */
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(0.97); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 15px rgba(0,173,181,0.5); }
+  50% { box-shadow: 0 0 25px rgba(0,173,181,0.8); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -100% 0; }
+  100% { background-position: 200% 0; }
+}

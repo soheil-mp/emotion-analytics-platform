@@ -1,0 +1,63 @@
+{
+  "configuration": {
+    "azure_available": true,
+    "connection_status": "Connected",
+    "environment_variables": {
+      "AZURE_SUBSCRIPTION_ID": "\u2713 Set",
+      "AZURE_RESOURCE_GROUP": "\u2713 Set",
+      "AZURE_WORKSPACE_NAME": "\u2713 Set",
+      "AZURE_CLIENT_ID": "\u2713 Set (optional)",
+      "AZURE_CLIENT_SECRET": "\u2713 Set (optional)",
+      "AZURE_TENANT_ID": "\u2713 Set (optional)"
+    },
+    "authentication": {
+      "available_methods": [
+        "Service Principal"
+      ],
+      "service_principal_configured": true,
+      "azure_cli_available": false
+    }
+  },
+  "models": {
+    "azure_available": true,
+    "local": {
+      "baseline_exists": true,
+      "dynamic_exists": true,
+      "baseline_size": 284956370,
+      "baseline_modified": "2025-05-30 15:35:31",
+      "dynamic_size": 288655669,
+      "dynamic_modified": "2025-06-07 16:30:32"
+    },
+    "azure_ml": {
+      "emotion-clf-baseline": {
+        "version": "2",
+        "created_time": "2025-06-01 12:29:14",
+        "tags": {
+          "model_type": "baseline",
+          "f1_score": "0.7851",
+          "upload_time": "2025-06-01T14:25:41.246860",
+          "framework": "pytorch",
+          "upload_attempt": "1",
+          "file_size_mb": "271.75",
+          "promoted_from_dynamic": "2",
+          "promotion_time": "2025-06-01T14:28:33.543939"
+        }
+      },
+      "emotion-clf-dynamic": {
+        "version": "7",
+        "created_time": "2025-06-07 14:31:33",
+        "tags": {
+          "model_type": "dynamic",
+          "f1_score": "0.6012902642117386",
+          "upload_time": "2025-06-07T16:30:48.486953",
+          "framework": "pytorch",
+          "upload_attempt": "3",
+          "file_size_mb": "275.28",
+          "epoch": "1",
+          "output_tasks": "emotion,sub_emotion,intensity",
+          "feature_config": "{'pos': False, 'textblob': False, 'vader': False, 'tfidf': True, 'emolex': True}"
+        }
+      }
+    }
+  }
+}

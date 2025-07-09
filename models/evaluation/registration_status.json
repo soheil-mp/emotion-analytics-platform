@@ -1,0 +1,6 @@
+{
+    "registration_status": "not_registered_metric_unavailable",
+    "best_val_emotion_f1_used_for_decision": -1.0,
+    "registration_f1_threshold": 0.1,
+    "model_asset_name": "EmotionClassificationModel"
+}

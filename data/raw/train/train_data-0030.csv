@@ -1,0 +1,334 @@
+start_time,end_time,text,emotion,sub-emotion,intensity
+00:00:00,00:00:24,"No, that spot.",neutral,neutral,mild
+00:00:24,00:00:25,You see that spot right there?,happiness,curiosity,mild
+00:00:26,00:00:32,That exact spot was the scene of my worst camping experience of my life.,sadness,melancholy,moderate
+00:00:32,00:00:35,"We got swarmed by thousands, millions of midges.",fear,fear,moderate
+00:00:35,00:00:37,Absolutely horrific.,disgust,aversion,mild
+00:00:37,00:00:38,"Ah, my eyes.",surprise,surprise,mild
+00:00:38,00:00:41,But I'm not camping there tonight because I just can't.,neutral,neutral,mild
+00:00:41,00:00:48,"I can't go back too soon, but I have got plans to wreak my revenge upon the midgee population later in the year.",happiness,excitement,moderate
+00:00:48,00:00:53,So the plan tonight is a bit different because I'm heading up there.,neutral,neutral,mild
+00:00:54,00:00:54,There.,neutral,neutral,mild
+00:00:56,00:01:02,"That, what looks like a rocky hill is actually kind of the end of a bit of a ridge, and it's known as Hare's Castle.",neutral,neutral,mild
+00:01:02,00:01:04,The view from the top is incredible.,happiness,admiration,mild
+00:01:04,00:01:05,I've always wanted to camp there.,happiness,desire,moderate
+00:01:05,00:01:08,I brought the smallest tent I have with me.,neutral,neutral,mild
+00:01:08,00:01:12,The little tiny Rab Ridge Raider weighs less than a kilo.,neutral,neutral,mild
+00:01:12,00:01:14,So let's go have an adventure.,happiness,excitement,moderate
+00:01:38,00:01:38,You see this?,happiness,curiosity,mild
+00:01:39,00:01:40,This stuff right here?,surprise,confusion,mild
+00:01:41,00:01:41,Yeah.,neutral,neutral,mild
+00:01:41,00:01:44,This is all the grass that died over the winter.,disgust,aversion,mild
+00:01:44,00:01:48,"And now it is bone dry, like straight straw.",disgust,aversion,moderate
+00:01:48,00:01:50,And it is everywhere up here.,neutral,neutral,mild
+00:01:50,00:01:53,Anywhere you see that's yellow is coated in this.,neutral,neutral,mild
+00:01:53,00:02:02,"And that's why at the start of the spring, there are always so many fires, because you drop one spark onto that and this entire place would go up very, very, very quickly.",happiness,excitement,moderate
+00:02:02,00:02:06,Not something you want to be lighting a fire anywhere near.,disgust,aversion,moderate
+00:02:06,00:02:08,We're nearly up at the secret waterfall.,neutral,neutral,mild
+00:02:11,00:02:12,See over there?,happiness,curiosity,mild
+00:02:12,00:02:16,"If you look closely, you'll see a tree growing.",neutral,neutral,mild
+00:02:17,00:02:18,That's where the secret waterfall is.,happiness,curiosity,mild
+00:02:32,00:02:33,Delicate operation.,happiness,admiration,mild
+00:02:44,00:02:48,"While I'm here, I'm gonna fill up my water filter.",neutral,neutral,mild
+00:02:49,00:02:53,"I've only been carrying 500 mils, and I'll need about a liter.",neutral,neutral,mild
+00:02:53,00:02:58,"So soft flask with a water filter on it, fill this up, and then that will give me a liter in total.",neutral,neutral,mild
+00:04:15,00:04:16,Okay.,neutral,neutral,mild
+00:04:18,00:04:23,"And after all that, I'm not going to camp up here tonight for several reasons.",sadness,disappointment,mild
+00:04:23,00:04:25,"First of all, the ground is incredibly squisherous.",disgust,aversion,moderate
+00:04:25,00:04:27,"I don't know if you can see that, but there's water there.",happiness,curiosity,mild
+00:04:27,00:04:30,"So if I camp on that, like, everywhere up here is really marshy for some reason.",neutral,neutral,mild
+00:04:30,00:04:34,"Like, down there is much drier, and if I camp on that, it's gonna, like, just get me cold.",fear,nervousness,mild
+00:04:34,00:04:36,"Doesn't look cold, but it's actually really cold up here.",neutral,neutral,mild
+00:04:36,00:04:41,"If you look on the top of sleeve, Donard, there's still snow up there.",happiness,curiosity,mild
+00:04:42,00:04:46,"So it's, like, below zero up on the summit, and it's going to get quite cold tonight.",neutral,neutral,mild
+00:04:46,00:04:49,"I kind of want to sit and be able to, like, chat to the camera.",happiness,desire,mild
+00:04:49,00:04:51,There's nowhere I can sit up here.,anger,annoyance,moderate
+00:04:51,00:04:52,"I have a Sit mat, put in the grind.",neutral,neutral,mild
+00:04:52,00:04:54,My legs are going to get wet with that.,fear,fear,moderate
+00:04:55,00:05:01,And also there's the fact that I could really do with getting a good night's sleep tonight for reasons I'll explain in a minute.,neutral,neutral,mild
+00:05:01,00:05:06,So I'm just going to go down to that more shelter spot and pitch there and I will come back here.,neutral,neutral,mild
+00:05:06,00:05:09,I will come back up here and pitch camp up here in the summer.,happiness,optimism,mild
+00:05:10,00:05:14,Some generous soul left me a bottle.,happiness,admiration,mild
+00:05:14,00:05:19,"I was going to go down, fill up the two containers I have and then I'd have a liter fill this up.",neutral,neutral,mild
+00:05:19,00:05:22,I've got two and a half liters to last me until morning.,neutral,neutral,mild
+00:05:22,00:05:27,"I mean, if I drink that much tonight, the inside of my tent will be sodden.",fear,fear,moderate
+00:05:28,00:05:29,But yeah.,neutral,neutral,mild
+00:05:29,00:05:39,"So thanks to whoever, whatever kind person left this lying up here on the mountain, whoever just didn't have enough room in their pack to bring it home.",happiness,caring,mild
+00:05:40,00:05:40,Thank you.,happiness,gratitude,mild
+00:05:50,00:05:53,"Okay, this will work.",happiness,optimism,mild
+00:05:59,00:06:00,There's some sheep dung.,neutral,neutral,mild
+00:06:00,00:06:03,There's going to be a lot of sheep dung around here.,fear,fear,moderate
+00:06:03,00:06:07,"Right, let's pitch me tiny tent first.",happiness,optimism,mild
+00:06:07,00:06:08,Hold me close now.,happiness,desire,mild
+00:06:08,00:06:12,Tiny tent always do a practice lie.,neutral,neutral,mild
+00:06:13,00:06:14,This is slightly squishy.,neutral,neutral,mild
+00:06:14,00:06:15,It's not as squishy as up there.,neutral,neutral,mild
+00:06:15,00:06:16,We're still here.,neutral,neutral,mild
+00:06:18,00:06:18,Yeah.,neutral,neutral,mild
+00:06:18,00:06:19,Okay.,neutral,neutral,mild
+00:06:19,00:06:23,Is my bum wet when I'm pitching this?,surprise,confusion,moderate
+00:06:23,00:06:31,I'll tell you why I haven't done as many camping videos as maybe you might have been hoping for.,neutral,neutral,mild
+00:06:31,00:06:50,"The reason has been actually quite frustrating and it's every single time I have gone camping or went camping during the last this winter, I've gotten sick for about two, three days afterwards and in some cases, like I haven't felt great for a week afterwards.",anger,annoyance,moderate
+00:06:51,00:06:57,"So it meant if I was going to go camping, I had to plan to basically lose several days off work.",fear,nervousness,moderate
+00:06:57,00:06:58,But it's not just camping.,neutral,neutral,mild
+00:06:58,00:07:04,I think there might be something else going on because over the last six months or so I've been getting sick.,neutral,neutral,mild
+00:07:04,00:07:04,"In fact, more than that.",surprise,realization,mild
+00:07:04,00:07:06,"It's been off for a couple of years really, but it's got.",neutral,neutral,mild
+00:07:06,00:07:15,"It was worse in the last six months, getting quite regularly sort of fatigued and tired and low energy and just not my.",sadness,melancholy,moderate
+00:07:16,00:07:19,My normal cheerful self.,neutral,neutral,mild
+00:07:20,00:07:23,"So I've been to the doctor, I've had some blood tests.",neutral,neutral,mild
+00:07:23,00:07:25,Apparently my blood is boringly normal.,neutral,neutral,mild
+00:07:26,00:07:27,I was kind of hoping they might find.,neutral,neutral,mild
+00:07:27,00:07:30,"Ah, Stephen, you've got something horribly wrong with you.",disgust,aversion,moderate
+00:07:30,00:07:45,"Because, you know, you'd want to know anytime I got like really cold or had really bad sleep, all of which happens when you camp in winter or if I'm just like, like mentally Kind of a bit stressed.",fear,nervousness,moderate
+00:07:45,00:07:51,"Like with my work, I would get sick for a few days, for a few days afterwards, or for even longer.",fear,nervousness,moderate
+00:07:51,00:07:56,"In April, I had about 20 days in a row where I felt kind of grim.",sadness,melancholy,moderate
+00:07:56,00:07:57,Yeah.,neutral,neutral,mild
+00:07:57,00:07:58,So I repeatedly get sick.,anger,annoyance,moderate
+00:07:58,00:08:02,"I would have things like headaches, sore throats, like all body ache.",fear,nervousness,moderate
+00:08:02,00:08:05,"Like an ache, almost like I had a bit of, a.",sadness,melancholy,moderate
+00:08:06,00:08:07,"Bit of a flu, like symptoms.",surprise,confusion,moderate
+00:08:07,00:08:10,"And they could come on really, really quickly, like in the space of an hour.",happiness,excitement,moderate
+00:08:10,00:08:11,It could come on.,neutral,neutral,mild
+00:08:11,00:08:14,I'm partly convinced it might be some kind of suppressed.,happiness,curiosity,mild
+00:08:14,00:08:15,So stress.,fear,nervousness,moderate
+00:08:15,00:08:21,"It might not look like it, but just bear in mind you see like 1% of my life and my work.",neutral,neutral,mild
+00:08:21,00:08:23,So there's lots of aspects of my.,happiness,curiosity,mild
+00:08:23,00:08:26,"My work, my day job can be quite stressful.",fear,nervousness,moderate
+00:08:26,00:08:27,And I think I suppress stress.,neutral,neutral,mild
+00:08:27,00:08:31,"And I don't consider myself someone who gets stressed, or at least I didn't.",neutral,neutral,mild
+00:08:31,00:08:32,So I think I suppress it.,neutral,neutral,mild
+00:08:32,00:08:41,And I think that's coming out physically because the weird thing is there's been days I felt perfectly fine and then I get a phone call or an email to tell me something that's immediately going to cause me bother.,surprise,confusion,moderate
+00:08:41,00:08:44,Maybe it's bad feedback or something like that.,surprise,confusion,mild
+00:08:44,00:08:46,And within a few hours I can actually feel sick.,fear,nervousness,moderate
+00:08:46,00:08:53,"Not like stomach sick, not like, oh, it's maybe nauseous, but actually like butt aches, chills, sore throat, headache.",fear,nervousness,moderate
+00:08:53,00:08:53,It's weird.,surprise,confusion,mild
+00:08:54,00:08:57,"And if I'm feeling a bit grim and then I get good news, I can physically feel better.",happiness,relief,moderate
+00:08:58,00:08:59,So no idea.,surprise,confusion,mild
+00:08:59,00:09:06,"I'm weird and possibly a bit cracked in the head, but hopefully we'll figure it out.",happiness,optimism,moderate
+00:09:06,00:09:12,It's made me cautious about going out and like getting absolutely freezing or not getting a good night's sleep.,fear,nervousness,moderate
+00:09:12,00:09:14,So that's why I've come down here.,neutral,neutral,mild
+00:09:14,00:09:18,And that's this tent up.,neutral,neutral,mild
+00:09:18,00:09:19,That's all there is to it.,neutral,neutral,mild
+00:09:19,00:09:23,"If I hadn't been talking, I probably could have got that up in about three minutes.",neutral,neutral,mild
+00:09:24,00:09:29,"Okay, so it's the day after I went camping and I confirm that I now feel grim.",sadness,melancholy,moderate
+00:09:29,00:09:33,"I've got a headache, My head feels hot, my eyes feel like they're burning.",fear,fear,moderate
+00:09:33,00:09:34,Kind of like I feel like I have a fever.,fear,nervousness,moderate
+00:09:35,00:09:36,Like there's kind of like symptoms.,surprise,realization,mild
+00:09:36,00:09:38,Got like a whole body ache.,fear,fear,moderate
+00:09:38,00:09:41,And I'll probably feel like this for a couple of days.,neutral,neutral,mild
+00:09:42,00:09:47,It'll mean my productivity will be down to like 25 to 50% at best.,fear,nervousness,moderate
+00:09:47,00:09:53,And this is now the price I pay every time I go camping in kind of colder conditions or when I don't sleep very well.,anger,annoyance,moderate
+00:09:54,00:09:55,Sucks.,disgust,aversion,moderate
+00:09:55,00:09:58,It's kind of a strange tent because it's only single skin.,surprise,confusion,mild
+00:09:58,00:10:00,But the material this is made from is incredible.,surprise,surprise,moderate
+00:10:00,00:10:02,Like the hydrostatic head on.,happiness,amusement,mild
+00:10:02,00:10:05,This is better than any other tent I own.,happiness,approval,mild
+00:10:06,00:10:08,"And it's super, super breathable.",happiness,admiration,mild
+00:10:08,00:10:12,"I've never had problems with condensation on, like, other bivies, which is a big reason for getting it.",happiness,pride,mild
+00:10:12,00:10:22,"The downside with it is if you want to get into it, you gotta do the shuffle again in, like this.",anger,annoyance,mild
+00:10:22,00:10:23,So there's not very much space.,neutral,neutral,mild
+00:10:24,00:10:41,"I should probably take this as an opportunity to get my thumbnail, get my.",neutral,neutral,mild
+00:10:41,00:10:41,Oh.,surprise,surprise,mild
+00:10:41,00:10:43,Doing my yoga stretches.,neutral,neutral,mild
+00:10:43,00:10:43,So what's that?,happiness,curiosity,mild
+00:10:43,00:10:47,Is that downward dog or upper seal?,happiness,curiosity,mild
+00:10:47,00:10:48,I don't know.,surprise,confusion,mild
+00:10:48,00:10:51,Recently upgraded my air mat.,happiness,pride,mild
+00:10:51,00:10:59,"I used to have the old sea to summit ultralight mat, but I'm a side sleeper, so it wasn't quite thick enough.",neutral,neutral,mild
+00:10:59,00:11:00,It's only 5cm thick.,neutral,neutral,mild
+00:11:00,00:11:03,This new one is 10cm thick.,neutral,neutral,mild
+00:11:04,00:11:07,"Ah, the peace and quiet of the great outdoors.",neutral,neutral,mild
+00:11:08,00:11:09,Ow.,surprise,surprise,mild
+00:11:11,00:11:13,I had it connected the wrong way around.,surprise,confusion,mild
+00:11:13,00:11:15,That would explain why I wasn't inflating.,surprise,realization,mild
+00:11:16,00:11:17,I am an idiot.,anger,anger,intense
+00:11:19,00:11:20,There we go.,neutral,neutral,mild
+00:11:21,00:11:21,See?,happiness,curiosity,mild
+00:11:21,00:11:22,Nice and thick.,neutral,neutral,mild
+00:11:23,00:11:24,Chuck that in there.,neutral,neutral,mild
+00:11:24,00:11:25,Sleeping bag.,neutral,neutral,mild
+00:11:27,00:11:29,Get down in the bed.,neutral,neutral,mild
+00:11:29,00:11:30,"Oh, that's it.",surprise,realization,mild
+00:11:30,00:11:31,There we go.,neutral,neutral,mild
+00:11:31,00:11:34,Put this over the top like that.,surprise,confusion,mild
+00:11:37,00:11:41,And then it won't go anywhere during the night.,sadness,disappointment,mild
+00:11:54,00:11:55,It's pretty special.,happiness,excitement,moderate
+00:11:58,00:11:58,There's the sun.,neutral,neutral,mild
+00:11:59,00:11:59,Look at that light.,neutral,neutral,mild
+00:12:00,00:12:12,"I think I might wait five minutes and put the drone up one last time before it disappears behind that mountain, which it's going to in about 20 minutes.",neutral,neutral,mild
+00:12:12,00:12:14,"You know, I had a moment, and I was driving down here.",neutral,neutral,mild
+00:12:14,00:12:22,"I got an email, stopped to check it, and let's just say it was more negative feedback from a client than I was hoping for.",sadness,disappointment,moderate
+00:12:24,00:12:25,That's what I got to do tomorrow.,neutral,neutral,mild
+00:12:25,00:12:28,"I got to work tomorrow, so I got to pack up pretty early in the morning.",neutral,neutral,mild
+00:12:28,00:12:31,But this feedback was more negative than I'd hoped.,sadness,disappointment,moderate
+00:12:31,00:12:34,And it's gonna give me more work to do tomorrow than I.,neutral,neutral,mild
+00:12:35,00:12:36,Than I had wanted.,sadness,disappointment,mild
+00:12:36,00:12:37,I had this moment.,surprise,realization,mild
+00:12:38,00:12:40,I was less than halfway.,neutral,neutral,mild
+00:12:40,00:12:42,"I was less than halfway here, and I just thought, you know what?",neutral,neutral,mild
+00:12:42,00:12:43,Stuff it.,anger,annoyance,mild
+00:12:43,00:12:44,Just go home.,neutral,neutral,mild
+00:12:44,00:12:45,Just go home.,neutral,neutral,mild
+00:12:45,00:12:46,Get the work done.,happiness,optimism,mild
+00:12:47,00:12:51,But I'm glad I kept going.,happiness,joy,mild
+00:13:00,00:13:03,"As you can see, the sun has now disappeared behind Lamin.",surprise,realization,mild
+00:13:03,00:13:07,"Proper sunset is in 15 minutes, which means I've got about.",neutral,neutral,mild
+00:13:07,00:13:10,I've got about 30 to 45 minutes of usable light left.,neutral,neutral,mild
+00:13:10,00:13:12,And there's still something I want to show you.,happiness,curiosity,mild
+00:13:12,00:13:16,"So I'm gonna get down the campsite, make my food, and we'll have a look.",neutral,neutral,mild
+00:13:17,00:13:22,I'm having one of these fire pot meals tonight.,happiness,excitement,mild
+00:13:23,00:13:30,I could not be bothered with the hassle and the extra weight of lugging actual frying pan and cooking equipment up here.,anger,annoyance,moderate
+00:13:30,00:13:40,"So, yeah, as far as these things go, this is one of the nicest.",happiness,admiration,mild
+00:13:42,00:13:44,So the thing I wanted to show you is this.,neutral,neutral,mild
+00:13:45,00:13:47,This is Zoleo.,neutral,neutral,mild
+00:13:47,00:13:54,It is a satellite communicator that lets me send messages without a phone connection.,neutral,neutral,mild
+00:13:55,00:14:03,There's an app for my phone that I connect this to and then through that app I can send messages to people.,neutral,neutral,mild
+00:14:03,00:14:10,"I can also get weather forecasts, I can summon emergency response if I need to.",happiness,optimism,mild
+00:14:10,00:14:26,"But if I don't have the app on its own, it has this handy button here that I can just press and if I press that, it will immediately send a message to my wife Louise, telling her all good and it'll give her my coordinates.",happiness,optimism,mild
+00:14:26,00:14:27,So it's like a check in.,neutral,neutral,mild
+00:14:27,00:14:31,"Oh, it's got a message to reply from Louise.",happiness,curiosity,mild
+00:14:32,00:14:32,Yeah.,neutral,neutral,mild
+00:14:32,00:14:39,"So I sent Louise a message telling her all good at camp, having a great time, and she's replied, love you, be careful.",happiness,gratitude,mild
+00:14:39,00:14:48,"So I will reply, I am being careful.",neutral,neutral,mild
+00:14:49,00:14:51,And now she'll know that I'm being careful.,fear,nervousness,moderate
+00:14:52,00:14:57,"So if you don't have the app, you know, you can't send a message because there's no screen on this.",neutral,neutral,mild
+00:14:57,00:14:59,But you can push the check in button that'll let you check in.,neutral,neutral,mild
+00:15:00,00:15:14,"But the other thing you can do is it has this little SOS flap here and if you flip that open and press and hold that button, it will summon the emergency services who will come and retrieve you from wherever you are on the mountain.",happiness,optimism,mild
+00:15:14,00:15:17,This is Little Garmin Inner Niche Mini and I've been using this for a long time.,neutral,neutral,mild
+00:15:17,00:15:18,Similar idea.,happiness,approval,mild
+00:15:18,00:15:30,"But there's one big difference with the Zoleo and the big difference with the Zoleo is that people can message me with this, I can initiate a conversation and then someone can reply to that.",neutral,neutral,mild
+00:15:30,00:15:35,"But this, I get my own dedicated mobile number essentially for this and an email.",neutral,neutral,mild
+00:15:35,00:15:38,So somebody wants to message me when I'm out and about.,fear,nervousness,mild
+00:15:38,00:15:48,"If they want to initiate a conversation, they just send it to that number and it comes through to me, that number, that email address, and it comes through to me, which means if someone else is having an emergency somewhere, I can be contacted.",neutral,neutral,mild
+00:15:48,00:15:51,"But I've only got the thing, haven't really used it that much.",neutral,neutral,mild
+00:15:51,00:16:03,I'm just kind of letting you know that it exists and at some point in the future I'll maybe do like a proper review of Suddenly Got Very Cold.,happiness,optimism,mild
+00:16:04,00:16:10,So that's why I've got this screw on the cap.,neutral,neutral,mild
+00:16:10,00:16:16,Grab one of your spare socks that you of course have brought with you because you always bring spare socks.,neutral,neutral,mild
+00:16:17,00:16:25,Drop the bottle inside the sock and you've got yourself a little hot water bottle.,neutral,neutral,mild
+00:16:25,00:16:30,And I'm gonna go and chuck this down the bottom of my sleeping bag so that I do get into it relatively shortly.,neutral,neutral,mild
+00:16:30,00:16:31,It's nice and warm.,neutral,neutral,mild
+00:16:31,00:16:34,"My fingers, I can't feel the tips of my fingers.",surprise,confusion,moderate
+00:16:34,00:16:35,That's how cold it is.,neutral,neutral,mild
+00:16:35,00:17:01,"So yeah, I think I'm gonna wait out here for another 15 minutes and then it's gonna be time to get inside the tent, hands in the boots and walk my way in.",neutral,neutral,mild
+00:17:26,00:17:27,You know you got to go back.,neutral,neutral,mild
+00:17:27,00:17:28,I can get the camera.,neutral,neutral,mild
+00:17:30,00:17:36,"So I do find myself somewhat conflicted with this tent, if you can call it a tent.",surprise,confusion,mild
+00:17:36,00:17:44,"I mean this look, there's no room whatsoever in here about.",anger,annoyance,moderate
+00:17:44,00:17:49,Despite that I have managed to fit me plus all of my stuff like everything I brought is in here.,happiness,pride,moderate
+00:17:50,00:17:52,"The bags down in my legs, tripods down the sides.",neutral,neutral,mild
+00:17:52,00:17:55,There is just enough space to get all your stuff in.,neutral,neutral,mild
+00:17:55,00:17:59,And the conflict with it is it's sort of a bomb proof shelter.,happiness,amusement,mild
+00:17:59,00:18:01,"It's incredibly waterproof, it's incredibly windproof.",happiness,admiration,moderate
+00:18:02,00:18:08,But you would never actually want to use it in really bad conditions if you had a choice because you can't cook in it.,disgust,aversion,moderate
+00:18:08,00:18:13,"Which means if you're using it in bad weather, well how do you cook your food?",happiness,curiosity,mild
+00:18:13,00:18:14,You'd have to carry an extra tarp or something.,neutral,neutral,mild
+00:18:14,00:18:16,At that point you're carrying extra weight.,neutral,neutral,mild
+00:18:16,00:18:20,If you carry an extra weight why not just bring a larger tent?,happiness,amusement,mild
+00:18:20,00:18:23,But despite all that there's just something I like about it.,happiness,approval,mild
+00:18:23,00:18:24,It's just so quick to pitch.,neutral,neutral,mild
+00:18:25,00:18:28,And I have actually bought a tent which was to replace this.,happiness,pride,mild
+00:18:28,00:18:31,I bought a Terra Nova laser compact one.,neutral,neutral,mild
+00:18:31,00:18:34,It weighs about the same but it's a full S tent.,neutral,neutral,mild
+00:18:35,00:18:36,But yet I might in this.,neutral,neutral,mild
+00:18:37,00:18:45,I think what I'm going to do is I'm probably going to keep this tent for maybe like summer warmer weather as a fine tonight.,happiness,optimism,mild
+00:18:45,00:18:46,It's not the best when it's.,sadness,disappointment,mild
+00:18:46,00:18:54,I got kind of cold standing out there so I'm in here earlier than I'd like to be cuz I can't really stay outside but I think I'll keep it for the summer.,neutral,neutral,mild
+00:18:54,00:18:57,"I'll keep it for a fast pack and if I'm like running and, and camping.",happiness,desire,mild
+00:18:57,00:19:00,"But anyway I'm going to shut myself in, sit on my phone.",neutral,neutral,mild
+00:19:00,00:19:06,I'm currently writing a script for a video which is all about 10 principles that'll kind of keep you.,happiness,optimism,mild
+00:19:06,00:19:06,Right.,neutral,neutral,mild
+00:19:06,00:19:18,"If you're wanting to wild camp in Northern Ireland and I suppose the rest of Ireland and the UK as well, go in there.",neutral,neutral,mild
+00:19:18,00:19:19,My boot light.,neutral,neutral,mild
+00:19:19,00:19:21,"Ah, it's a foot light.",surprise,surprise,mild
+00:19:29,00:19:30,There we go.,neutral,neutral,mild
+00:19:32,00:19:33,I'll see you in the morning.,neutral,neutral,mild
+00:19:34,00:19:52,Hopefully it.,happiness,optimism,mild
+00:20:21,00:20:27,So it's raining.,neutral,neutral,mild
+00:20:30,00:20:32,Worst case scenario for this tiny tent.,neutral,neutral,mild
+00:20:34,00:20:40,"Oh, it's cold and horrible outside.",sadness,disappointment,moderate
+00:20:41,00:20:44,"I don't want to get up, but I have to.",fear,nervousness,moderate
+00:20:46,00:20:46,Right.,neutral,neutral,mild
+00:20:47,00:20:49,"Manage to get my hat, all my trousers on.",happiness,desire,moderate
+00:20:50,00:20:55,I'm now packing away as many of these bits and pieces before have to go out of the tent.,neutral,neutral,mild
+00:20:55,00:20:56,Right.,neutral,neutral,mild
+00:20:56,00:20:57,Pillows away.,neutral,neutral,mild
+00:20:57,00:21:02,I gotta try and get sleeping bag into the compression sack.,happiness,optimism,mild
+00:21:02,00:21:03,I'm compressed.,neutral,neutral,mild
+00:21:04,00:21:09,"Oh, it's like a biscuit.",surprise,surprise,mild
+00:21:11,00:21:44,No need to get myself warmed up.,neutral,neutral,mild
+00:21:46,00:21:49,Let's go for morning exercises.,neutral,neutral,mild
+00:21:50,00:21:52,Got my resistance band.,happiness,pride,moderate
+00:21:53,00:21:56,"They say resistance is futile, but I disagree.",disgust,aversion,moderate
+00:22:06,00:22:15,"Ah, this is one of the really handy features of this paramo jacket because it's got this like front kangaroo pouch in the front.",happiness,admiration,mild
+00:22:15,00:22:18,It's perfect for incubating your food.,happiness,approval,mild
+00:22:19,00:22:20,There we go.,neutral,neutral,mild
+00:22:22,00:22:23,All right.,neutral,neutral,mild
+00:22:23,00:22:25,I think I'm ready to birth my breakfast.,happiness,excitement,moderate
+00:22:31,00:22:31,I am.,neutral,neutral,mild
+00:22:31,00:22:35,Because I know someone is gonna ask me what my thoughts are on this paramo jacket.,fear,nervousness,moderate
+00:22:36,00:22:37,I don't have it that long.,neutral,neutral,mild
+00:22:37,00:22:40,I've only been out about four or five times in it.,neutral,neutral,mild
+00:22:40,00:22:40,Yeah.,neutral,neutral,mild
+00:22:40,00:22:42,"So if you don't know about these, basically they're.",happiness,curiosity,mild
+00:22:42,00:22:45,"Is it pf, PFO free?",happiness,curiosity,mild
+00:22:45,00:22:46,Waterproof.,neutral,neutral,mild
+00:22:46,00:22:51,"It uses Nikwak technology for its waterproofness, which means that you have to retreat it every now and then.",neutral,neutral,mild
+00:22:51,00:23:00,And it's also not as waterproof as like a traditional like bin bag type waterproof jacket like Gore Tex or what have you.,disgust,aversion,mild
+00:23:00,00:23:02,But the theory is it's a lot more breathable.,happiness,optimism,mild
+00:23:03,00:23:05,The claim is that a standard waterproof.,neutral,neutral,mild
+00:23:05,00:23:06,I think it will.,happiness,optimism,mild
+00:23:06,00:23:11,"It will get rid of 20% of the moisture you produce, the sweat you produce, whereas this will get rid of 80%.",neutral,neutral,mild
+00:23:12,00:23:24,"The downside being, from what I've heard so far, is if you're out in a really, really heavy downpour all day, it will kind of soak through, but at the same time that water will be kind of brought out and it'll dry off quicker.",neutral,neutral,mild
+00:23:24,00:23:28,"I haven't had it out in a downpour yet, but here's all I know about this so far.",neutral,neutral,mild
+00:23:28,00:23:29,I really like it.,happiness,joy,mild
+00:23:29,00:23:31,"It's really, really comfortable.",happiness,approval,mild
+00:23:31,00:23:34,It's so much quieter than walking around than in a normal waterproof.,neutral,neutral,mild
+00:23:34,00:23:39,"You're like, you don't get that when I put the hood up, I Hate having a hood up.",anger,annoyance,moderate
+00:23:39,00:23:44,My normal waterproof because every time you move your head you get that like plasticky noise.,anger,annoyance,moderate
+00:23:44,00:23:48,You don't get that with this because it's a nice soft fabric and it's just really comfy to wear.,happiness,approval,mild
+00:23:48,00:23:50,It's warmer than I expected.,surprise,surprise,mild
+00:23:50,00:23:52,It's basically equivalent to a down jacket.,neutral,neutral,mild
+00:23:52,00:23:53,"It's got like two layers, I would say.",neutral,neutral,mild
+00:23:53,00:23:54,Yeah.,neutral,neutral,mild
+00:23:54,00:23:55,Like a thin down jacket.,neutral,neutral,mild
+00:23:55,00:23:57,It would give you that same amount of warmth.,happiness,optimism,mild
+00:23:57,00:23:58,It's got this ver.,neutral,neutral,mild
+00:23:58,00:23:58,This.,neutral,neutral,mild
+00:23:58,00:24:01,Got this like super handy kangaroo pouch in the front.,happiness,admiration,mild
+00:24:01,00:24:02,You can vent it down both sides.,neutral,neutral,mild
+00:24:02,00:24:03,You can vent it down here.,neutral,neutral,mild
+00:24:03,00:24:04,You can vent it down here.,neutral,neutral,mild
+00:24:04,00:24:05,There's arm vents.,neutral,neutral,mild
+00:24:05,00:24:08,So I'm still finding where it fits in my kit.,neutral,neutral,mild
+00:24:08,00:24:09,"But yeah, those are my thoughts so far.",neutral,neutral,mild
+00:24:11,00:24:13,Let's have the breakfast and then get out of here.,happiness,optimism,moderate
+00:24:27,00:24:27,And like that.,neutral,neutral,mild
+00:24:28,00:24:30,Not a drop of evidence I was ever here.,sadness,disappointment,moderate
+00:24:30,00:24:31,Let's go.,happiness,excitement,moderate
+00:24:34,00:24:43,I nearly forgot my avian bottle.,fear,nervousness,moderate
+00:24:45,00:24:46,Won't be needing any more of that.,happiness,relief,mild
+00:24:49,00:24:49,Oh yeah.,neutral,neutral,mild
+00:24:49,00:24:51,I just made the rocks really slippy to get back.,happiness,excitement,moderate
+00:24:52,00:24:52,Idiot.,anger,anger,intense
+00:25:01,00:25:03,It's probably how the last person lost.,sadness,melancholy,mild
+00:25:05,00:25:05,Right.,neutral,neutral,mild
+00:25:09,00:25:10,Let's get out of here.,happiness,optimism,moderate
+00:25:19,00:25:20,This way.,neutral,neutral,mild
+00:25:20,00:25:21,I think.,neutral,neutral,mild
+00:25:25,00:25:30,"Just in case you're wondering, hey, Stephen, why have you only got one glove on the.",happiness,curiosity,mild
+00:25:32,00:25:36,My other glove is currently propping up this camera which is sitting on top of a rock.,neutral,neutral,mild
+00:25:36,00:25:38,Gonna end the video there.,neutral,neutral,mild
+00:25:38,00:25:39,Hope you enjoyed this video.,neutral,neutral,mild
+00:25:39,00:25:42,Camping up on Hare's castle.,neutral,neutral,mild
+00:25:42,00:25:44,Definitely gonna go back to do that.,happiness,optimism,mild
+00:25:44,00:25:45,Like summer camp.,neutral,neutral,mild
+00:25:45,00:25:46,Sometime in the summer.,neutral,neutral,mild
+00:25:46,00:25:46,Yeah.,neutral,neutral,mild
+00:25:46,00:25:47,Thanks for watching.,happiness,gratitude,mild
+00:25:47,00:25:48,Thanks to all the channel members.,happiness,gratitude,mild
+00:25:48,00:25:52,Maybe someday I'll catch you outside in the drizzle.,neutral,neutral,mild
+00:25:52,00:25:54,Having just woken up in the clouds.,neutral,neutral,mild
+00:25:54,00:25:56,I'll catch you in the next one.,neutral,neutral,mild
+00:25:56,00:25:56,Bye Bye.,neutral,neutral,mild
+00:25:57,00:25:57,It.,neutral,neutral,mild

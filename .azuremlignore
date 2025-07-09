@@ -1,0 +1,104 @@
+# Ignore MLflow runs and experiments
+mlruns/
+.mlruns/
+
+# Ignore large data files
+data/
+*.csv
+*.json
+*.txt
+*.parquet
+
+# Ignore model artifacts
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Ignore results and outputs
+results/
+outputs/
+logs/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Git
+.git/
+.gitignore
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore Docker
+Dockerfile*
+docker-compose*
+
+# Ignore documentation build
+docs/_build/
+docs/build/
+
+# Ignore test files
+tests/
+*test*
+pytest.ini
+.pytest_cache/
+
+# Ignore configuration files
+config.json
+.env*
+*.yml
+*.yaml
+environment*.yml
+
+# Ignore package files
+poetry.lock
+pyproject.toml
+requirements*.txt
+setup.py
+setup.cfg
+
+# Ignore assets and screenshots
+assets/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore frontend
+frontend/
+
+# Ignore notebooks (they contain outputs)
+notebooks/
+*.ipynb
+
+# Ignore additional large directories
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/

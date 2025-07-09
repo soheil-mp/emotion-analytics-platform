@@ -1,0 +1,897 @@
+start_time,end_time,text,emotion,sub-emotion,intensity
+"00:00:00,000","00:00:04,000","John, they ask. Are you happy that your program has been around for ten years?",happiness,curiosity,mild
+"00:00:04,000","00:00:08,000",And of course fantastic. So many beautiful memories.,happiness,joy,moderate
+"00:00:08,000","00:00:10,000",O!,surprise,surprise,mild
+"00:00:12,000","00:00:14,000",Hallo?,neutral,neutral,neutral
+"00:00:14,000","00:00:16,000",Ah!,surprise,surprise,mild
+"00:00:16,000","00:00:18,000",Ah! Fuses!,surprise,confusion,mild
+"00:00:18,000","00:00:20,000",I think we have to go back to basics.,surprise,realization,moderate
+"00:00:20,000","00:00:23,000","I'm not leaving so quickly. No, I'm not leaving so quickly.",happiness,optimism,moderate
+"00:00:23,000","00:00:25,000",Ah!,surprise,surprise,mild
+"00:00:26,000","00:00:28,000","Come on, come on.",,,
+"00:00:28,000","00:00:32,000",Of course we also have drivers this year with their own issues in traffic.,neutral,neutral,neutral
+"00:00:39,000","00:00:43,000",And how beautiful it is that we all these drivers ...,happiness,admiration,mild
+"00:00:43,000","00:00:45,000",Woehoe!,happiness,excitement,intense
+"00:00:45,000","00:00:47,000",Ah!,surprise,surprise,mild
+"00:00:47,000","00:00:49,000",Shaving.,neutral,neutral,neutral
+"00:00:50,000","00:00:53,000","Yes, no, but I didn't mean that.",surprise,confusion,mild
+"00:00:53,000","00:00:56,000",But I am very looking forward to it.,happiness,excitement,moderate
+"00:01:09,000","00:01:13,000",Welcome to a new season of the bad driver of the Netherlands.,neutral,neutral,neutral
+"00:01:13,000","00:01:18,000",This anniversary year also exploded our mailbox from people who are really scared ...,fear,fear,moderate
+"00:01:18,000","00:01:21,000",That it could go very wrong in traffic ...,fear,fear,moderate
+"00:01:21,000","00:01:23,000","With their boyfriend, girlfriend or family member.",happiness,caring,mild
+"00:01:23,000","00:01:27,000","So thanks for your registrations. Thanks, thanks.",happiness,gratitude,moderate
+"00:01:27,000","00:01:28,000",Dank.,happiness,gratitude,mild
+"00:01:28,000","00:01:30,000",I'm Shelly and this is Ricky.,neutral,neutral,neutral
+"00:01:30,000","00:01:33,000",I nominated her for the bad driver of the Netherlands.,disgust,disapproval,moderate
+"00:01:33,000","00:01:37,000",Ricky is 65 Plus and has had her driver's license for years.,neutral,neutral,neutral
+"00:01:37,000","00:01:40,000","One thing, she has not been doing in the last 40 years.",happiness,curiosity,mild
+"00:01:40,000","00:01:42,000","O, o, o, o, Ricky.",disgust,disapproval,mild
+"00:01:42,000","00:01:44,000",I'm Michael. And this is Bradley.,neutral,neutral,neutral
+"00:01:44,000","00:01:48,000","And especially with its anti -social, bulky, hysterical divagon behavior ...",disgust,disapproval,intense
+"00:01:48,000","00:01:51,000",I nominate him as the bad driver of the Netherlands.,disgust,disapproval,moderate
+"00:01:51,000","00:01:56,000",Bradley is 19 years young and lives with 37-year-old Michael.,neutral,neutral,neutral
+"00:01:56,000","00:01:59,000","In terms of driving, Bradley in an old car you have to learn it.",neutral,neutral,neutral
+"00:01:59,000","00:02:01,000",Hallo.,neutral,neutral,neutral
+"00:02:01,000","00:02:03,000","He comes from the right, isn't it?",surprise,confusion,mild
+"00:02:03,000","00:02:07,000",I am Petra and this is my charitable woman Myrthe.,neutral,neutral,neutral
+"00:02:07,000","00:02:10,000","Myrthe and Petra, a duo with wedding plans.",happiness,joy,mild
+"00:02:10,000","00:02:13,000",The only thing that can get between the 2 freezers ...,happiness,curiosity,mild
+"00:02:13,000","00:02:15,000",Is the driving style of Myrthe.,disgust,disapproval,mild
+"00:02:15,000","00:02:17,000","Wow. At the table. That is finished, isn't it?",surprise,surprise,mild
+"00:02:17,000","00:02:19,000",I'm Tara and this is Arne.,neutral,neutral,neutral
+"00:02:19,000","00:02:22,000",And he is really the worst driver in the Netherlands.,disgust,disapproval,intense
+"00:02:22,000","00:02:25,000","Yes, Arne and Tara are BFFs from their younger years.",neutral,neutral,neutral
+"00:02:25,000","00:02:28,000","Best Friends Forever, already feared Tara for Forever.",fear,fear,mild
+"00:02:28,000","00:02:31,000",They suspect fatal end of road pirate Arne.,fear,fear,moderate
+"00:02:33,000","00:02:35,000",Do you understand? I stopped on time.,happiness,relief,mild
+"00:02:35,000","00:02:39,000","She is the worst driver in the Netherlands, because she is fucking bad.",anger,anger,intense
+"00:02:40,000","00:02:43,000",Marjolein and Esmeralda live unsafe in the Bijlmer.,fear,fear,moderate
+"00:02:43,000","00:02:47,000",Only when Marjolein starts driving normally will the Bijlmer be safe again.,disgust,disapproval,moderate
+"00:02:48,000","00:02:53,000","Hi, I am Iris and I nominate Tanishia for the worst driver in the Netherlands.",disgust,disapproval,moderate
+"00:02:53,000","00:02:55,000",Tanishia has been taking driving lessons for 10 years ...,neutral,neutral,neutral
+"00:02:55,000","00:02:58,000",Until she accidentally passes her exam.,surprise,surprise,mild
+"00:02:58,000","00:03:00,000",Girlfriend Iris wonders hard.,happiness,curiosity,moderate
+"00:03:00,000","00:03:02,000",Did she ever really learn to drive?,happiness,curiosity,moderate
+"00:03:02,000","00:03:03,000",Oh my god!,surprise,surprise,moderate
+"00:03:03,000","00:03:08,000",It is up to us the clean task to raise these drivers again.,happiness,optimism,moderate
+"00:03:08,000","00:03:11,000","And after 10 years, one thing is still the most important thing.",surprise,realization,mild
+"00:03:12,000","00:03:15,000",Make the Netherlands a bit safer.,happiness,optimism,moderate
+"00:03:19,000","00:03:21,000",Our drivers start their adventure ...,happiness,excitement,mild
+"00:03:21,000","00:03:24,000",With a nice diversion by Vissersdorp Spakenburg.,neutral,neutral,neutral
+"00:03:24,000","00:03:27,000",Because before we extensively test our candidates ...,neutral,neutral,neutral
+"00:03:27,000","00:03:30,000",We want to know what kind of meat we have in De Kuip.,happiness,curiosity,mild
+"00:03:31,000","00:03:34,000",To get new hunger. Fresh fish.,happiness,desire,mild
+"00:03:34,000","00:03:37,000",How do our drivers behave in an environment ...,happiness,curiosity,mild
+"00:03:37,000","00:03:39,000",Where people and animals were safe?,neutral,neutral,neutral
+"00:03:39,000","00:03:42,000",Where a serene resting driver drops nicely relaxed.,neutral,neutral,neutral
+"00:03:42,000","00:03:44,000",But make sure that you remain sensitive.,neutral,neutral,neutral
+"00:03:45,000","00:03:46,000",Want...,neutral,neutral,neutral
+"00:03:48,000","00:03:49,000",You never know ...,neutral,neutral,neutral
+"00:03:51,000","00:03:53,000",That you can do things like this.,surprise,realization,mild
+"00:03:53,000","00:03:56,000",And that is not the only difficulty.,neutral,neutral,neutral
+"00:03:56,000","00:04:00,000",The rustic Spakenburg has made us a little more lively.,happiness,amusement,mild
+"00:04:00,000","00:04:04,000","That scooter had no priority, because he comes from a residential area.",anger,annoyance,mild
+"00:04:06,000","00:04:09,000","So even if you have priority, caution remains.",fear,fear,moderate
+"00:04:09,000","00:04:13,000",Because being right and being right are two different things.,surprise,realization,mild
+"00:04:14,000","00:04:18,000","As the first, driver Mitte and co -driver Petra drive through Spakenburg.",neutral,neutral,neutral
+"00:04:18,000","00:04:19,000",And then we turn left.,neutral,neutral,neutral
+"00:04:19,000","00:04:21,000",The peace of Spakenburg gives ...,neutral,neutral,neutral
+"00:04:23,000","00:04:25,000",For the time being no influence on these Frisian ladies.,neutral,neutral,neutral
+"00:04:25,000","00:04:27,000",All muscle? Yes.,neutral,neutral,neutral
+"00:04:31,000","00:04:32,000","Yes, but ...",neutral,neutral,neutral
+"00:04:33,000","00:04:36,000","What are you doing? Shout like that, please.",anger,annoyance,moderate
+"00:04:36,000","00:04:37,000",He almost touched me.,fear,fear,moderate
+"00:04:39,000","00:04:40,000",I'll wait.,neutral,neutral,neutral
+"00:04:46,000","00:04:47,000",This is not going well.,sadness,disappointment,moderate
+"00:04:47,000","00:04:51,000",I gave up my wife because she is a very bad rider.,disgust,disapproval,moderate
+"00:04:51,000","00:04:53,000",And it's time for things to go differently.,happiness,optimism,moderate
+"00:04:53,000","00:04:55,000",Hi. Bye.,neutral,neutral,neutral
+"00:04:55,000","00:04:57,000",Bye. Hi.,neutral,neutral,neutral
+"00:04:57,000","00:04:59,000",It seems like we are in China.,surprise,confusion,mild
+"00:04:59,000","00:05:02,000",You never have that either. People with long ...,surprise,confusion,mild
+"00:05:02,000","00:05:04,000","What is this, man?",surprise,confusion,moderate
+"00:05:04,000","00:05:06,000",I have nothing.,neutral,neutral,neutral
+"00:05:06,000","00:05:07,000",Waaah!,surprise,surprise,moderate
+"00:05:09,000","00:05:11,000",Her driving style is very chaotic.,disgust,disapproval,moderate
+"00:05:11,000","00:05:15,000",She has no overview at all. Everything happens at the last minute.,disgust,disapproval,moderate
+"00:05:15,000","00:05:17,000",That gives dangerous situations.,fear,fear,moderate
+"00:05:17,000","00:05:20,000",I can do it first. Not at the same time ... Waaah!,anger,annoyance,moderate
+"00:05:20,000","00:05:24,000","The moment I'm behind the wheel, I do a lot of things at the same time.",happiness,pride,mild
+"00:05:24,000","00:05:26,000",And everything comes in just as hard.,neutral,neutral,neutral
+"00:05:26,000","00:05:28,000",Your head just goes out. Yes.,surprise,confusion,mild
+"00:05:28,000","00:05:30,000",And that car will continue.,neutral,neutral,neutral
+"00:05:32,000","00:05:34,000",What will he do then?,happiness,curiosity,mild
+"00:05:34,000","00:05:35,000",Hallo!,neutral,neutral,neutral
+"00:05:35,000","00:05:36,000",Such as!,neutral,neutral,neutral
+"00:05:38,000","00:05:40,000","Calm, honey. Calm.",happiness,caring,mild
+"00:05:40,000","00:05:42,000","Yes, but he ... yes, that side!",surprise,confusion,mild
+"00:05:42,000","00:05:46,000","I really fear cities, traffic lights, bus lanes.",fear,fear,moderate
+"00:05:46,000","00:05:49,000",Cyclists? Cyclists.,neutral,neutral,neutral
+"00:05:49,000","00:05:50,000","O, o, o!",surprise,surprise,mild
+"00:05:50,000","00:05:51,000",Waaah!,fear,fear,moderate
+"00:05:52,000","00:05:55,000","Rustig, hallo. Is there anyone?",surprise,confusion,mild
+"00:05:55,000","00:05:57,000",He makes a special transaction.,neutral,neutral,neutral
+"00:05:57,000","00:05:59,000",He doesn't do it on the other side.,neutral,neutral,neutral
+"00:06:01,000","00:06:04,000","If I could take a driver's license, I would have done it very often.",happiness,desire,moderate
+"00:06:04,000","00:06:07,000","Not only for myself, but also for the employees.",happiness,caring,mild
+"00:06:07,000","00:06:11,000",How often we get angry looks. Thrown. Yes.,anger,annoyance,moderate
+"00:06:11,000","00:06:14,000",Small prediction. Scooter from Woonerf.,neutral,neutral,neutral
+"00:06:14,000","00:06:17,000","Decibel meter in red. Yes, I said it.",anger,annoyance,mild
+"00:06:17,000","00:06:18,000",Hallo!,neutral,neutral,neutral
+"00:06:18,000","00:06:19,000",Hallo!,neutral,neutral,neutral
+"00:06:19,000","00:06:22,000","He waves. What an angry farmers, man!",anger,annoyance,moderate
+"00:06:22,000","00:06:24,000","Oh, I am beasts.",disgust,disgust,mild
+"00:06:24,000","00:06:26,000",It was hoped for a moment.,sadness,disappointment,mild
+"00:06:26,000","00:06:30,000","Please help me and from my wife, the hiking ramps plan,",happiness,caring,moderate
+"00:06:30,000","00:06:32,000",make a good cow?,surprise,confusion,mild
+"00:06:32,000","00:06:35,000",I occasionally saw that you just went out. That's right.,surprise,realization,mild
+"00:06:35,000","00:06:39,000","At the intersection that there is a truck, you don't remember.",surprise,confusion,mild
+"00:06:39,000","00:06:41,000","No, I really don't know anymore.",surprise,confusion,moderate
+"00:06:43,000","00:06:45,000",It will then be completely ...,surprise,confusion,mild
+"00:06:45,000","00:06:47,000",Then nothing comes in anymore.,sadness,disappointment,mild
+"00:06:47,000","00:06:50,000","I can no longer name a dish, not the alphabet.",surprise,confusion,moderate
+"00:06:50,000","00:06:53,000","That is clear who we have here, right?",surprise,realization,mild
+"00:06:53,000","00:06:54,000","And, absolute.",neutral,neutral,neutral
+"00:06:55,000","00:06:57,000",Deze ene. Yes.,neutral,neutral,neutral
+"00:06:59,000","00:07:01,000","Still? Or is he out? No, right?",surprise,confusion,mild
+"00:07:01,000","00:07:04,000",Welcome to my world.,neutral,neutral,neutral
+"00:07:06,000","00:07:08,000",And this is Rikkie with co -driver Shelly.,neutral,neutral,neutral
+"00:07:08,000","00:07:12,000",And also at Rikkie it is immediately clear who we have here.,surprise,realization,mild
+"00:07:12,000","00:07:14,000","Sulfur. And, and, nee.",surprise,confusion,mild
+"00:07:14,000","00:07:17,000","Like this. No, you got that car there.",neutral,neutral,neutral
+"00:07:17,000","00:07:22,000",I gave up Rikkie because she has not driven for more than 35 years.,neutral,neutral,neutral
+"00:07:22,000","00:07:25,000",And because she still wants to become a little independent.,happiness,desire,mild
+"00:07:25,000","00:07:29,000","Okay, it will take a while at this roundabout.",neutral,neutral,neutral
+"00:07:29,000","00:07:32,000","Are they all going left? Yes, that too.",neutral,neutral,neutral
+"00:07:32,000","00:07:36,000",You are wearing a different blinking. You can drive it up.,neutral,neutral,neutral
+"00:07:36,000","00:07:38,000",But you'll get it.,happiness,optimism,mild
+"00:07:41,000","00:07:43,000","Well, my husband is getting older.",sadness,sadness,mild
+"00:07:44,000","00:07:50,000","And yes, it is easy if you can control a car again.",happiness,optimism,mild
+"00:07:55,000","00:07:57,000","Stop, Rikkie. Stop.",fear,nervousness,moderate
+"00:07:57,000","00:08:00,000",You have to put the brakes on. Stop.,anger,annoyance,moderate
+"00:08:00,000","00:08:03,000",She is very insecure and very anxious behind the wheel.,fear,nervousness,intense
+"00:08:03,000","00:08:08,000","She also indicates when she drives that she has palpitations, sweaty hands.",fear,nervousness,moderate
+"00:08:09,000","00:08:11,000",And cyclists too.,neutral,neutral,neutral
+"00:08:11,000","00:08:13,000",The had per opgecond. Yes.,surprise,confusion,mild
+"00:08:13,000","00:08:16,000","Yes, yes, yes. Oh, those are men.",happiness,amusement,mild
+"00:08:16,000","00:08:21,000",I hope Rikkie learns to get rid of her fears and uncertainty.,happiness,optimism,mild
+"00:08:21,000","00:08:24,000",And that she has faith in it herself and continues ...,happiness,optimism,moderate
+"00:08:24,000","00:08:27,000",To eventually be able to drive the car.,happiness,optimism,mild
+"00:08:27,000","00:08:29,000","Stop, man. Oh.",anger,annoyance,moderate
+"00:08:29,000","00:08:33,000",Like this. It doesn't go on the side of you.,anger,annoyance,mild
+"00:08:33,000","00:08:36,000",Now you stand still on the roundabout. Yes.,anger,annoyance,mild
+"00:08:36,000","00:08:40,000",This roundabout is also not going smoothly.,anger,annoyance,moderate
+"00:08:40,000","00:08:42,000","Stop, it's.",anger,annoyance,mild
+"00:08:42,000","00:08:44,000",I just want to be able to say to myself ...,happiness,optimism,moderate
+"00:08:44,000","00:08:46,000","Riek, come on. You can do it too.",,,
+"00:08:46,000","00:08:48,000",Another can do it. You can do it too.,,,
+"00:08:48,000","00:08:50,000",Get confidence back.,happiness,optimism,moderate
+"00:08:50,000","00:08:52,000",Rikkie.,neutral,neutral,neutral
+"00:09:01,000","00:09:03,000","O, rivers.",surprise,surprise,mild
+"00:09:03,000","00:09:05,000","No, it's going well.",happiness,relief,mild
+"00:09:05,000","00:09:07,000","Stop, man. Oh.",anger,annoyance,moderate
+"00:09:07,000","00:09:08,000",Like this.,neutral,neutral,neutral
+"00:09:08,000","00:09:10,000",Know what it is about.,happiness,curiosity,mild
+"00:09:10,000","00:09:13,000",Not driven for a long time and your self -confidence.,fear,nervousness,mild
+"00:09:13,000","00:09:16,000","We are going to do that. Self -confidence, that will be one thing.",happiness,optimism,moderate
+"00:09:16,000","00:09:19,000",But we will also work on that. Is that good? Yes.,happiness,optimism,moderate
+"00:09:19,000","00:09:20,000",Thank you.,happiness,gratitude,mild
+"00:09:22,000","00:09:24,000","There, highway.",neutral,neutral,neutral
+"00:09:24,000","00:09:28,000","At Anne and co -driver Tara, the Vaart is immediately comfortable.",neutral,neutral,neutral
+"00:09:29,000","00:09:31,000",Red light. Understandable.,neutral,neutral,neutral
+"00:09:31,000","00:09:34,000","Those fear eyes at Tara. Yes, beautiful.",happiness,amusement,mild
+"00:09:34,000","00:09:36,000",Hupsakee.,happiness,amusement,mild
+"00:09:38,000","00:09:40,000",I think I was given up by Tara ...,surprise,surprise,mild
+"00:09:40,000","00:09:43,000",Because I ride a little too fast from time to time.,neutral,neutral,neutral
+"00:09:43,000","00:09:46,000",And I'm not always on the traffic rules.,neutral,neutral,neutral
+"00:09:46,000","00:09:48,000",Anne loves the left track.,neutral,neutral,neutral
+"00:09:48,000","00:09:51,000",You prefer to stay there for as long as possible.,neutral,neutral,neutral
+"00:09:51,000","00:09:53,000",Also as a turn of Spalkburg calls.,surprise,confusion,mild
+"00:09:53,000","00:09:55,000","And, and, and.",neutral,neutral,neutral
+"00:09:55,000","00:10:00,000",I gave up Anne because she picks up a lot of crazy convertibles on the road.,disgust,disapproval,moderate
+"00:10:00,000","00:10:05,000","In the emergency lane, in Alephiède-Berm, sitting on his phone and just don't really pay attention.",disgust,disapproval,moderate
+"00:10:09,000","00:10:12,000","Yes, I think it is a bit comical that I have been given up.",happiness,amusement,mild
+"00:10:12,000","00:10:14,000","I think I am a pretty good driver, yes.",happiness,pride,mild
+"00:10:14,000","00:10:17,000",A pretty good driver in the worst driver in the Netherlands.,neutral,neutral,neutral
+"00:10:17,000","00:10:19,000",What a relief.,happiness,relief,moderate
+"00:10:24,000","00:10:27,000","Sitting next to Arne, it sometimes works pretty on your nerves.",anger,annoyance,moderate
+"00:10:27,000","00:10:29,000","Especially when he thinks, I want harder.",anger,annoyance,moderate
+"00:10:29,000","00:10:30,000",Oh my God.,surprise,surprise,moderate
+"00:10:30,000","00:10:34,000","John, make sure it stays with fifteen totless cars.",neutral,neutral,neutral
+"00:10:34,000","00:10:36,000",And that he does not become a cupboard plant.,neutral,neutral,neutral
+"00:10:36,000","00:10:38,000",This was really a dangerous ride.,fear,fear,moderate
+"00:10:38,000","00:10:40,000",You went through red.,disgust,disapproval,moderate
+"00:10:42,000","00:10:46,000",You drove 160 on the highway at a certain moment.,disgust,disapproval,moderate
+"00:10:49,000","00:10:51,000",You would have lost your driver's license.,disgust,disapproval,moderate
+"00:10:51,000","00:10:53,000",And so he drives every day.,anger,annoyance,mild
+"00:10:53,000","00:10:55,000","Yes, always.",neutral,neutral,neutral
+"00:10:55,000","00:10:58,000",I think you will stay with us for a while.,neutral,neutral,neutral
+"00:10:59,000","00:11:01,000","Say, I think ...",happiness,curiosity,mild
+"00:11:03,000","00:11:07,000",Really serious. Will one walk in the middle of the road here?,anger,annoyance,moderate
+"00:11:09,000","00:11:10,000",Sow.,neutral,neutral,neutral
+"00:11:10,000","00:11:13,000","I have given up Bradley, because I think he drives hysterically.",disgust,disapproval,moderate
+"00:11:13,000","00:11:18,000",Everything and everyone on the road in particular is a problem for him.,disgust,disapproval,moderate
+"00:11:18,000","00:11:20,000",Is there now also a bicycle on the 55?,happiness,curiosity,mild
+"00:11:20,000","00:11:21,000",Of course.,neutral,neutral,neutral
+"00:11:21,000","00:11:24,000","That is, if your bike is a so -called speed pedelek.",neutral,neutral,neutral
+"00:11:24,000","00:11:26,000",Recognizable by the yellow license plate.,neutral,neutral,neutral
+"00:11:26,000","00:11:30,000",Say a modern moped for which the same rules apply as a moped.,neutral,neutral,neutral
+"00:11:30,000","00:11:32,000","That you know it for a while, Bradley.",neutral,neutral,neutral
+"00:11:32,000","00:11:34,000",Whether I am the worst driver in the Netherlands?,happiness,curiosity,mild
+"00:11:34,000","00:11:36,000","Yes, I don't hope so.",fear,nervousness,mild
+"00:11:36,000","00:11:38,000","Only, I only told my driving instructor this.",neutral,neutral,neutral
+"00:11:38,000","00:11:39,000","And he says, he's going to win.",happiness,optimism,mild
+"00:11:43,000","00:11:45,000","Okay, so that's just right.",neutral,neutral,neutral
+"00:11:45,000","00:11:46,000",We ...,neutral,neutral,neutral
+"00:11:46,000","00:11:48,000","I asked, is that right?",happiness,curiosity,mild
+"00:11:48,000","00:11:50,000","Yes, you can think about it yourself, or not?",anger,annoyance,mild
+"00:11:50,000","00:11:52,000","Yes, honey, I don't understand that at all.",surprise,confusion,mild
+"00:11:52,000","00:11:53,000","First exit, I say, right?",neutral,neutral,neutral
+"00:11:53,000","00:11:54,000",So in this.,neutral,neutral,neutral
+"00:11:55,000","00:11:57,000","Yes, we regularly have discussions in the car.",anger,annoyance,mild
+"00:11:57,000","00:11:59,000",And then we really have a fight occasionally.,anger,anger,moderate
+"00:11:59,000","00:12:01,000",That I occasionally get out.,anger,annoyance,mild
+"00:12:01,000","00:12:02,000",Occasionally.,neutral,neutral,neutral
+"00:12:02,000","00:12:04,000","Continuous when I drive, then you get off.",anger,annoyance,mild
+"00:12:04,000","00:12:06,000","And then you say, go by train.",anger,annoyance,mild
+"00:12:06,000","00:12:08,000",So you have to go back.,neutral,neutral,neutral
+"00:12:08,000","00:12:11,000","In the meantime, Bradley and co -driver Michael have driven incorrectly.",disgust,disapproval,mild
+"00:12:11,000","00:12:12,000",No problem.,neutral,neutral,neutral
+"00:12:12,000","00:12:13,000",Just turn.,neutral,neutral,neutral
+"00:12:13,000","00:12:14,000",No stress.,neutral,neutral,neutral
+"00:12:15,000","00:12:16,000",Still?,happiness,curiosity,mild
+"00:12:17,000","00:12:19,000","Oh, seriously?",surprise,surprise,mild
+"00:12:19,000","00:12:20,000",That is boring.,anger,annoyance,mild
+"00:12:25,000","00:12:27,000","I bought a new car, four weeks ago.",neutral,neutral,neutral
+"00:12:27,000","00:12:30,000","He grabbed my car. I thought, this is going wrong.",fear,fear,moderate
+"00:12:30,000","00:12:31,000","Bam, against the tree.",fear,fear,intense
+"00:12:31,000","00:12:32,000",First the front.,neutral,neutral,neutral
+"00:12:32,000","00:12:33,000",In front of the door.,neutral,neutral,neutral
+"00:12:33,000","00:12:34,000",Then the back.,neutral,neutral,neutral
+"00:12:35,000","00:12:36,000",And.,neutral,neutral,neutral
+"00:12:38,000","00:12:39,000",Hallo.,neutral,neutral,neutral
+"00:12:39,000","00:12:40,000",What a gol.,surprise,surprise,mild
+"00:12:40,000","00:12:42,000","He comes from the right, isn't it?",happiness,curiosity,mild
+"00:12:42,000","00:12:43,000","No, there is a ...",surprise,confusion,mild
+"00:12:43,000","00:12:44,000",Comes from the right.,neutral,neutral,neutral
+"00:12:44,000","00:12:46,000",What happens if he keeps driving like that?,,,
+"00:12:46,000","00:12:49,000",Then I think I am completely bankrupt in the damage.,sadness,disappointment,intense
+"00:12:49,000","00:12:50,000",O.,neutral,neutral,neutral
+"00:12:50,000","00:12:51,000",O.,neutral,neutral,neutral
+"00:12:52,000","00:12:53,000",O.,neutral,neutral,neutral
+"00:12:53,000","00:12:54,000",O.,neutral,neutral,neutral
+"00:12:54,000","00:12:55,000",O.,neutral,neutral,neutral
+"00:12:55,000","00:13:00,000",It is wise to give Bradley some space in complex situations.,happiness,approval,mild
+"00:13:02,000","00:13:04,000","You better cycle on the sidewalk, indeed.",anger,annoyance,mild
+"00:13:04,000","00:13:06,000",I give him on his fagot.,neutral,neutral,neutral
+"00:13:06,000","00:13:10,000",Because it is really time that he can do safety and less hysterical in traffic.,anger,annoyance,moderate
+"00:13:10,000","00:13:14,000","So that I, he, everyone is safe and it will cost me less money.",happiness,optimism,mild
+"00:13:15,000","00:13:17,000",Save over the ...,neutral,neutral,neutral
+"00:13:18,000","00:13:20,000",Save the school street in front of the church.,neutral,neutral,neutral
+"00:13:20,000","00:13:21,000",Where is the church?,happiness,curiosity,neutral
+"00:13:21,000","00:13:22,000",Where is the ...,surprise,confusion,mild
+"00:13:23,000","00:13:24,000",Church.,neutral,neutral,neutral
+"00:13:24,000","00:13:25,000",Do them normally.,,,
+"00:13:25,000","00:13:28,000",I gave up Marjolein because I think she is arrogant.,disgust,disapproval,moderate
+"00:13:28,000","00:13:29,000",Drives too fast.,disgust,disapproval,moderate
+"00:13:29,000","00:13:31,000",Does not like the speed.,disgust,disapproval,mild
+"00:13:31,000","00:13:34,000",And I think she can still learn after 26 years.,happiness,optimism,mild
+"00:13:34,000","00:13:35,000","Madam, you have to wait.",anger,annoyance,mild
+"00:13:35,000","00:13:36,000",That is not allowed.,disgust,disapproval,moderate
+"00:13:36,000","00:13:37,000",Nee.,neutral,neutral,neutral
+"00:13:42,000","00:13:44,000",I think Marjolein drives antisocial.,disgust,disapproval,moderate
+"00:13:44,000","00:13:45,000",Because the mouth is coarse.,disgust,disapproval,mild
+"00:13:45,000","00:13:46,000",Safe bicycle.,neutral,neutral,neutral
+"00:13:46,000","00:13:48,000",I am terrified when I enter the car.,fear,fear,intense
+"00:13:48,000","00:13:49,000",Finally.,happiness,relief,moderate
+"00:13:52,000","00:13:53,000",Your mother.,neutral,neutral,neutral
+"00:13:54,000","00:13:56,000","Oh, they are children's requirements.",surprise,realization,mild
+"00:13:59,000","00:14:03,000",After the break we board Danisha and Iris for the first time.,neutral,neutral,neutral
+"00:14:04,000","00:14:05,000",That normal boy.,neutral,neutral,neutral
+"00:14:05,000","00:14:07,000","Well Iris, you were not watching again.",anger,annoyance,mild
+"00:14:07,000","00:14:08,000",Oh my god.,surprise,surprise,moderate
+"00:14:08,000","00:14:09,000",It went to you.,neutral,neutral,neutral
+"00:14:09,000","00:14:12,000",And we test the basic skills of our drivers.,neutral,neutral,neutral
+"00:14:16,000","00:14:17,000",See you.,neutral,neutral,neutral
+"00:14:18,000","00:14:20,000",We drive from the street to the left.,neutral,neutral,neutral
+"00:14:20,000","00:14:23,000",Back in the car at Marjolein and Esmeralda.,neutral,neutral,neutral
+"00:14:24,000","00:14:25,000",Hupsakee.,happiness,amusement,mild
+"00:14:25,000","00:14:27,000",Two Amsterdammers with the heart on their tongue.,neutral,neutral,neutral
+"00:14:27,000","00:14:29,000","Oh, they are children's requirements.",surprise,realization,mild
+"00:14:30,000","00:14:31,000",Marjolein has five children.,neutral,neutral,neutral
+"00:14:31,000","00:14:33,000",She has three grandchildren.,neutral,neutral,neutral
+"00:14:33,000","00:14:37,000",And I think her children and her grandchildren can normally sit in the car ...,neutral,neutral,neutral
+"00:14:37,000","00:14:40,000",Without releasing as an anti -social bitch.,disgust,disapproval,moderate
+"00:14:40,000","00:14:43,000",And that they just arrive all house.,neutral,neutral,neutral
+"00:14:43,000","00:14:44,000",Backwards.,surprise,confusion,mild
+"00:14:44,000","00:14:45,000",Backwards.,surprise,confusion,mild
+"00:14:48,000","00:14:49,000",Wait a little.,anger,annoyance,mild
+"00:14:49,000","00:14:50,000",Then do it.,anger,annoyance,mild
+"00:14:50,000","00:14:51,000",Nee.,anger,annoyance,mild
+"00:14:51,000","00:14:54,000",I regularly chair others in traffic.,happiness,pride,mild
+"00:14:54,000","00:14:55,000","On the side, just on the side.",neutral,neutral,neutral
+"00:14:55,000","00:14:56,000","When I arrive, you go aside.",happiness,pride,mild
+"00:14:56,000","00:14:58,000","Yes, I don't ask more.",neutral,neutral,neutral
+"00:14:58,000","00:15:00,000","No, what are you doing?",surprise,confusion,moderate
+"00:15:00,000","00:15:01,000",What are you doing?,surprise,confusion,moderate
+"00:15:01,000","00:15:02,000",You have to wait.,anger,annoyance,moderate
+"00:15:02,000","00:15:04,000",He doesn't do it.,anger,annoyance,moderate
+"00:15:04,000","00:15:06,000",I am not the worst driver in the Netherlands.,,,
+"00:15:06,000","00:15:07,000",Not at all.,neutral,neutral,neutral
+"00:15:07,000","00:15:08,000",That's it.,neutral,neutral,neutral
+"00:15:08,000","00:15:09,000",I'm really the best.,happiness,pride,intense
+"00:15:09,000","00:15:10,000",We're going to see it.,happiness,curiosity,mild
+"00:15:10,000","00:15:11,000",I'm the best.,happiness,pride,intense
+"00:15:11,000","00:15:13,000",Nice inner arch Marjolein.,happiness,approval,mild
+"00:15:13,000","00:15:14,000",Of course is not allowed.,disgust,disapproval,mild
+"00:15:14,000","00:15:16,000","It's a bus lane, huh.",disgust,disapproval,mild
+"00:15:16,000","00:15:18,000",But not as tasty as it goes smoothly.,happiness,amusement,mild
+"00:15:18,000","00:15:19,000",Waaah!,surprise,surprise,intense
+"00:15:19,000","00:15:22,000",LAUGHTER,happiness,amusement,intense
+"00:15:22,000","00:15:24,000",What are you doing?,surprise,confusion,moderate
+"00:15:24,000","00:15:26,000","Take her away, gay.",disgust,disapproval,moderate
+"00:15:26,000","00:15:28,000",What a typhus debile.,anger,anger,intense
+"00:15:28,000","00:15:30,000","Hé, John. Emeralda sweater.",neutral,neutral,neutral
+"00:15:30,000","00:15:33,000","I need your help, because I have an anti -social girlfriend ...",,,
+"00:15:33,000","00:15:35,000",Who makes the construction unsafe with the row.,surprise,confusion,moderate
+"00:15:35,000","00:15:39,000","And if you can help her, you help me to walk safely on the street.",happiness,caring,moderate
+"00:15:39,000","00:15:42,000","It is very nice, but it is also really dangerous.",fear,fear,moderate
+"00:15:42,000","00:15:44,000","Really, Marjolein. Really dangerous. Yes?",,,
+"00:15:44,000","00:15:46,000","Yes, but really. But I don't see it.",surprise,confusion,moderate
+"00:15:46,000","00:15:49,000",You don't see it. But that is why you are here.,surprise,realization,mild
+"00:15:49,000","00:15:52,000",Welcome to the worst driver in the Netherlands. Thank you.,happiness,amusement,mild
+"00:15:52,000","00:15:55,000","Braking for a moment, because there is a man coming to it.",neutral,neutral,neutral
+"00:15:55,000","00:15:57,000",And there. Do they have you here for him?,happiness,curiosity,mild
+"00:15:57,000","00:15:59,000","Oh, I don't know for a while.",surprise,confusion,mild
+"00:15:59,000","00:16:00,000",Oh.,surprise,surprise,mild
+"00:16:00,000","00:16:01,000",Danisha is a cheerful type.,happiness,admiration,mild
+"00:16:01,000","00:16:04,000",Preferably everything laughs like it doesn't exist.,happiness,amusement,mild
+"00:16:04,000","00:16:07,000",Co -driver Iris would rather state the problems.,neutral,neutral,neutral
+"00:16:07,000","00:16:11,000","I gave up Danisha, because I find her rice really terrible.",disgust,disapproval,moderate
+"00:16:11,000","00:16:12,000","Look out, watch out!",fear,fear,intense
+"00:16:12,000","00:16:14,000",I know her steams.,neutral,neutral,neutral
+"00:16:14,000","00:16:16,000",Autohaard. Oh my god.,surprise,surprise,moderate
+"00:16:16,000","00:16:19,000",It is really death to sit next to her.,fear,fear,intense
+"00:16:19,000","00:16:20,000",Eh...,surprise,confusion,mild
+"00:16:22,000","00:16:24,000",Ah! Ah! Oh my god!,fear,fear,intense
+"00:16:24,000","00:16:27,000",It was a child. It was a children's bike.,surprise,surprise,moderate
+"00:16:27,000","00:16:28,000",Oh my god.,surprise,surprise,moderate
+"00:16:30,000","00:16:32,000","I crash, man.",fear,fear,intense
+"00:16:32,000","00:16:36,000","Stupid, stupid, idiot, disturbed, crazy, crazy on the road.",anger,anger,intense
+"00:16:36,000","00:16:38,000","Yes, you are just really crazy.",disgust,disapproval,intense
+"00:16:38,000","00:16:41,000","Danisha, this is forbidden to drive in.",disgust,disapproval,moderate
+"00:16:41,000","00:16:42,000",What a sum.,surprise,confusion,mild
+"00:16:42,000","00:16:43,000",Danisha.,neutral,neutral,neutral
+"00:16:43,000","00:16:44,000",Danisha.,neutral,neutral,neutral
+"00:16:44,000","00:16:46,000",Are you not allowed in this?,surprise,confusion,mild
+"00:16:47,000","00:16:48,000",A sum?,surprise,confusion,mild
+"00:16:48,000","00:16:49,000",And.,neutral,neutral,neutral
+"00:16:49,000","00:16:51,000",I think I can drive well.,happiness,pride,mild
+"00:16:51,000","00:16:55,000",I don't think it's right that Danisha received her driver's license.,disgust,disapproval,moderate
+"00:16:55,000","00:16:57,000","Very good, backwards.",happiness,approval,mild
+"00:16:57,000","00:16:59,000","Ah yes, nice man.",happiness,approval,mild
+"00:16:59,000","00:17:01,000",And now forward again. Just put forward.,neutral,neutral,neutral
+"00:17:01,000","00:17:04,000",Forward. What do you not understand?,anger,annoyance,moderate
+"00:17:04,000","00:17:07,000",Was your driving instructor deaf or blind?,disgust,disapproval,intense
+"00:17:07,000","00:17:09,000",Or could she not talk or anything?,disgust,disapproval,intense
+"00:17:09,000","00:17:11,000",What was wrong?,surprise,confusion,mild
+"00:17:11,000","00:17:13,000",Ah!,surprise,surprise,mild
+"00:17:15,000","00:17:17,000","Well Iris, you were not watching again.",disgust,disapproval,moderate
+"00:17:17,000","00:17:19,000",Oh my God. It's on your side.,surprise,surprise,moderate
+"00:17:19,000","00:17:23,000",What my fear is is that we are being hit and be crazy.,fear,fear,intense
+"00:17:23,000","00:17:27,000","We just continue, because I don't feel like arguing.",anger,annoyance,mild
+"00:17:27,000","00:17:29,000",I am very shocked now.,surprise,surprise,intense
+"00:17:29,000","00:17:32,000","Hey John, I really want to ask you for help.",happiness,desire,moderate
+"00:17:32,000","00:17:34,000",The help is really very necessary.,fear,fear,intense
+"00:17:34,000","00:17:36,000",I hope you can help her.,happiness,caring,mild
+"00:17:47,000","00:17:48,000",Welcome drivers.,neutral,neutral,neutral
+"00:17:48,000","00:17:53,000",I am looking at that you all ended up here.,neutral,neutral,neutral
+"00:17:53,000","00:17:56,000",There will come a time when it could go wrong.,fear,fear,moderate
+"00:17:56,000","00:17:58,000",Fingers crossed that it is not happening.,fear,nervousness,mild
+"00:17:58,000","00:18:01,000","Esmeralda, the honor of you to turn the sign.",neutral,neutral,neutral
+"00:18:01,000","00:18:02,000",That lies there.,neutral,neutral,neutral
+"00:18:04,000","00:18:05,000",Antisocial.,disgust,disapproval,moderate
+"00:18:06,000","00:18:08,000","Is this correct? No, I have no patience.",anger,annoyance,moderate
+"00:18:09,000","00:18:11,000","Iris, why did you take Danisha?",surprise,confusion,mild
+"00:18:11,000","00:18:14,000",It is really very dangerous to sit next to her.,fear,fear,intense
+"00:18:14,000","00:18:16,000",Do you want to take the sign Iris?,neutral,neutral,neutral
+"00:18:17,000","00:18:20,000",Silly. Danisha in the silly.,happiness,amusement,mild
+"00:18:21,000","00:18:24,000","Tara, why?",surprise,confusion,mild
+"00:18:24,000","00:18:29,000","He is reckless, he is dangerous and he has driven fifteen cars.",disgust,disapproval,intense
+"00:18:32,000","00:18:36,000",How? He drove fifteen cars.,happiness,curiosity,moderate
+"00:18:38,000","00:18:41,000",Road pirate. Road pirate.,disgust,disapproval,intense
+"00:18:41,000","00:18:44,000",Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.,anger,annoyance,moderate
+"00:18:44,000","00:18:49,000","Shelly, you are not going to tell me that Riek is a speed devil.",surprise,surprise,mild
+"00:18:49,000","00:18:52,000","No. No, more a fear bait.",surprise,realization,mild
+"00:18:52,000","00:18:55,000","Ooh! Yes, I didn't see that.",surprise,surprise,moderate
+"00:18:57,000","00:18:58,000",Anxious.,fear,fear,mild
+"00:18:58,000","00:19:01,000",There we are going to fight that it is leaving.,happiness,optimism,moderate
+"00:19:01,000","00:19:03,000",Is that good? Yes.,happiness,approval,mild
+"00:19:03,000","00:19:06,000","Michael, why are you doing this Bradley?",surprise,confusion,moderate
+"00:19:06,000","00:19:08,000",Here is actually Princess Bradley.,happiness,amusement,mild
+"00:19:08,000","00:19:11,000",He thinks that everything and everyone should give way to him.,disgust,disapproval,moderate
+"00:19:11,000","00:19:13,000",He can't do two things at the same time.,disgust,disapproval,mild
+"00:19:13,000","00:19:15,000",Steering and accelerating is difficult for him.,disgust,disapproval,mild
+"00:19:15,000","00:19:17,000",He pouters everything.,disgust,disapproval,mild
+"00:19:18,000","00:19:19,000",Oh!,surprise,surprise,mild
+"00:19:21,000","00:19:24,000",We are going to work on that. Is that good?,happiness,optimism,mild
+"00:19:24,000","00:19:26,000","Yes, I hope so.",happiness,optimism,mild
+"00:19:26,000","00:19:28,000","Petra, what should she learn?",happiness,curiosity,mild
+"00:19:28,000","00:19:32,000","We have a nice car, but there is a lot of money going ...",,,
+"00:19:32,000","00:19:35,000",Because the lady just can't drive.,disgust,disapproval,moderate
+"00:19:35,000","00:19:37,000",LAUGHTER,happiness,amusement,intense
+"00:19:37,000","00:19:39,000","Yes, I knew.",surprise,realization,mild
+"00:19:39,000","00:19:41,000",Chaotic. Is it right?,surprise,confusion,mild
+"00:19:41,000","00:19:43,000",It completely disrupts her.,sadness,disappointment,moderate
+"00:19:43,000","00:19:47,000",And now the legendary sentences I always say come.,neutral,neutral,neutral
+"00:19:47,000","00:19:51,000",You are going to compete for the title that nobody wants.,happiness,amusement,moderate
+"00:19:51,000","00:19:54,000",The title of the worst driver in the Netherlands.,happiness,amusement,moderate
+"00:19:54,000","00:19:59,000",And that also includes a price that nobody wants either.,happiness,amusement,moderate
+"00:20:00,000","00:20:04,000",And none other than Roan and Louisa come.,neutral,neutral,neutral
+"00:20:04,000","00:20:07,000",Roan made it a finalist two years ago.,happiness,pride,mild
+"00:20:08,000","00:20:12,000",Louisa kicked it on her needle suit and in one of her striking outfits ...,happiness,amusement,moderate
+"00:20:12,000","00:20:14,000",Through the diva of the show.,happiness,admiration,mild
+"00:20:14,000","00:20:16,000",Applause.,happiness,approval,moderate
+"00:20:16,000","00:20:17,000",Applause.,happiness,approval,moderate
+"00:20:19,000","00:20:22,000","Hi. Don't fuck it up, jongens.",fear,nervousness,moderate
+"00:20:22,000","00:20:25,000",Do your best and make sure you don't get this cup.,,,
+"00:20:25,000","00:20:26,000",Actually.,neutral,neutral,neutral
+"00:20:26,000","00:20:29,000","I just want to know, how are you?",happiness,curiosity,mild
+"00:20:29,000","00:20:32,000",No more dents on the car. And no fines.,happiness,relief,moderate
+"00:20:32,000","00:20:35,000",Then it is now one question. When do you get your driver's license?,happiness,curiosity,mild
+"00:20:35,000","00:20:38,000",I have always started a lot to be prepared.,neutral,neutral,neutral
+"00:20:38,000","00:20:41,000","To be prepared. Right, okay. Thank you.",happiness,gratitude,mild
+"00:20:41,000","00:20:43,000",Just applause once for Roan and Louisa.,happiness,approval,moderate
+"00:20:43,000","00:20:47,000","Dear drivers, I'll get him there. I put it down.",neutral,neutral,neutral
+"00:20:49,000","00:20:50,000",It...,neutral,neutral,neutral
+"00:20:51,000","00:20:52,000",is...,neutral,neutral,neutral
+"00:20:54,000","00:20:55,000",The cup.,neutral,neutral,neutral
+"00:20:56,000","00:20:59,000",The one who becomes the worst driver in the Netherlands ...,happiness,amusement,moderate
+"00:20:59,000","00:21:02,000","May him go to ... No, have to take him home.",happiness,amusement,moderate
+"00:21:02,000","00:21:05,000",Does it clear me clear that you don't want to win him?,surprise,confusion,moderate
+"00:21:05,000","00:21:08,000",Be careful. Then we can start.,happiness,caring,mild
+"00:21:13,000","00:21:14,000",Circuit Lelystad.,neutral,neutral,neutral
+"00:21:14,000","00:21:18,000",Normally drivers are looking for the border of their car here.,neutral,neutral,neutral
+"00:21:18,000","00:21:21,000","Now we are also looking for the border, but from our drivers.",happiness,curiosity,mild
+"00:21:21,000","00:21:24,000",What basic skills do our drivers control ...,happiness,curiosity,mild
+"00:21:24,000","00:21:25,000",And which not?,happiness,curiosity,mild
+"00:21:26,000","00:21:28,000",It's time for the zero meter.,neutral,neutral,neutral
+"00:21:29,000","00:21:31,000",But first the coaches.,neutral,neutral,neutral
+"00:21:31,000","00:21:35,000",The coach you love to hate. Rijinstructrice Patricia Nijman.,happiness,amusement,mild
+"00:21:35,000","00:21:38,000",And of course the fastest twin brothers in the Netherlands.,happiness,admiration,mild
+"00:21:38,000","00:21:39,000",Tim and Tom Coronel.,neutral,neutral,neutral
+"00:21:39,000","00:21:43,000",Their task? Our drivers are safer to drive.,happiness,optimism,mild
+"00:21:47,000","00:21:51,000",And what are the basic skills that we will test?,happiness,curiosity,mild
+"00:21:51,000","00:21:54,000",Tom does it for a moment. Take back parking.,neutral,neutral,neutral
+"00:21:54,000","00:21:55,000",Tight along the concrete time.,neutral,neutral,neutral
+"00:21:55,000","00:21:57,000","Krakker than this, that is not possible.",happiness,amusement,mild
+"00:21:57,000","00:22:00,000",Then make a speed in a cur turn.,neutral,neutral,neutral
+"00:22:00,000","00:22:04,000",A balance exercise. Then you see that he is completely gone.,surprise,surprise,mild
+"00:22:04,000","00:22:07,000",Run up an oblique slope.,neutral,neutral,neutral
+"00:22:08,000","00:22:09,000",Then a narrow space.,neutral,neutral,neutral
+"00:22:09,000","00:22:12,000",Preferably tap the barrel and leave the cup.,neutral,neutral,neutral
+"00:22:12,000","00:22:15,000",That is the intention. And leave the cup.,neutral,neutral,neutral
+"00:22:15,000","00:22:17,000",Drive a bit backwards.,neutral,neutral,neutral
+"00:22:18,000","00:22:20,000",A finish.,neutral,neutral,neutral
+"00:22:20,000","00:22:22,000",And then we have the finish here.,neutral,neutral,neutral
+"00:22:22,000","00:22:25,000","Well, now the candidates. Success.",happiness,approval,mild
+"00:22:25,000","00:22:28,000",Rik on Shelley. Ja.,neutral,neutral,neutral
+"00:22:28,000","00:22:30,000",This is called 0 meters.,neutral,neutral,neutral
+"00:22:30,000","00:22:33,000",We're going to see what you have at home. Put it on.,happiness,curiosity,mild
+"00:22:34,000","00:22:37,000","Arne, just look what you see.",happiness,curiosity,mild
+"00:22:39,000","00:22:41,000",Are you going to be fine?,fear,nervousness,mild
+"00:22:41,000","00:22:43,000","Tara, you look differently. Exciting.",happiness,excitement,mild
+"00:22:43,000","00:22:46,000","You find it exciting, yes? Yes, we do have ...",happiness,excitement,mild
+"00:22:46,000","00:22:49,000","I would say, show that they are not afraid of anything in itself.",neutral,neutral,neutral
+"00:22:49,000","00:22:51,000",Shall we do it? All Right.,happiness,optimism,mild
+"00:22:51,000","00:22:53,000",You should set up.,neutral,neutral,neutral
+"00:22:54,000","00:22:56,000","Riek, how is it?",happiness,curiosity,mild
+"00:22:56,000","00:22:58,000",Good. It is the other way around.,surprise,realization,mild
+"00:22:58,000","00:23:00,000",O!,surprise,surprise,mild
+"00:23:02,000","00:23:04,000",That's how it is in his three.,neutral,neutral,neutral
+"00:23:04,000","00:23:06,000","No, you have to do that. Yes, I know.",anger,annoyance,mild
+"00:23:06,000","00:23:08,000",I was practicing for a moment.,neutral,neutral,neutral
+"00:23:10,000","00:23:12,000","Yes, wait a minute.",neutral,neutral,neutral
+"00:23:13,000","00:23:15,000",And Arne is gone.,surprise,surprise,mild
+"00:23:15,000","00:23:17,000",Riek does not see him again.,surprise,confusion,mild
+"00:23:17,000","00:23:19,000","Look, candidates. It's not a competition.",neutral,neutral,neutral
+"00:23:19,000","00:23:23,000",The jury wants to see what you can and cannot do.,neutral,neutral,neutral
+"00:23:23,000","00:23:25,000","Well, Riek is gone too.",surprise,surprise,mild
+"00:23:25,000","00:23:27,000",I see a big difference between the two.,surprise,realization,mild
+"00:23:27,000","00:23:29,000",Get rid of pirates and fears.,happiness,optimism,moderate
+"00:23:31,000","00:23:34,000","In the meantime, Arne is starting with the first special operation.",neutral,neutral,neutral
+"00:23:34,000","00:23:39,000",Riek is on his way to the first circuit bend of her 66-year life.,happiness,excitement,moderate
+"00:23:39,000","00:23:42,000",Is he in his three? Yes.,happiness,curiosity,mild
+"00:23:42,000","00:23:44,000",Yes? No.,surprise,confusion,mild
+"00:23:44,000","00:23:46,000","O, riverkie.",neutral,neutral,neutral
+"00:23:46,000","00:23:49,000","Young, stop to be shocked.",anger,annoyance,mild
+"00:23:49,000","00:23:51,000","Yes, you scare me.",fear,fear,moderate
+"00:23:52,000","00:23:54,000",Back in the red wave of Arne.,neutral,neutral,neutral
+"00:23:54,000","00:23:57,000",On the way to the BIP BOP.,neutral,neutral,neutral
+"00:23:58,000","00:24:00,000",Very smooth.,happiness,approval,mild
+"00:24:04,000","00:24:06,000",Too aggressive.,disgust,disapproval,moderate
+"00:24:06,000","00:24:09,000","Hey, but I am. Yes, she's there.",surprise,surprise,mild
+"00:24:09,000","00:24:11,000",I wouldn't like that.,disgust,disapproval,mild
+"00:24:12,000","00:24:14,000",Jump.,happiness,excitement,moderate
+"00:24:14,000","00:24:16,000",Let's go.,happiness,excitement,moderate
+"00:24:16,000","00:24:18,000",He is way too wild.,disgust,disapproval,moderate
+"00:24:18,000","00:24:20,000","Look, I do indicate neatly direction.",happiness,pride,mild
+"00:24:20,000","00:24:22,000",And.,neutral,neutral,neutral
+"00:24:22,000","00:24:25,000",And I forget to switch back to its 1.,surprise,realization,mild
+"00:24:25,000","00:24:27,000","That is not always necessary, right? Oh, no.",surprise,confusion,mild
+"00:24:27,000","00:24:29,000",It is just idle and the acceleration.,neutral,neutral,neutral
+"00:24:29,000","00:24:31,000","Yes, what again? Yes, we go wrong.",anger,annoyance,moderate
+"00:24:31,000","00:24:33,000",I think so too.,neutral,neutral,neutral
+"00:24:33,000","00:24:36,000",Arne arrives at the disaster in the so far clear ride.,surprise,surprise,moderate
+"00:24:38,000","00:24:40,000","Hoppa, Hoppa. There is already the ride.",happiness,excitement,moderate
+"00:24:41,000","00:24:43,000","Sorry. No, it doesn't matter.",neutral,neutral,neutral
+"00:24:43,000","00:24:45,000","I'm wrong. Yes, choke wrong.",fear,embarrassment,mild
+"00:24:45,000","00:24:48,000",Also. You still have to go there.,neutral,neutral,neutral
+"00:24:48,000","00:24:50,000",They ramp. Jump.,happiness,excitement,moderate
+"00:24:50,000","00:24:52,000",What do we do? We already had there.,surprise,confusion,mild
+"00:24:52,000","00:24:54,000",Say it once. Where is the reverse?,happiness,curiosity,mild
+"00:24:54,000","00:24:56,000",Where is the R of the Race?,happiness,curiosity,mild
+"00:24:56,000","00:24:58,000",From the backwards.,neutral,neutral,neutral
+"00:24:58,000","00:25:00,000",Rikkie is now an extra obstacle.,anger,annoyance,mild
+"00:25:00,000","00:25:02,000",Where Arne passes smoothly.,happiness,admiration,mild
+"00:25:02,000","00:25:04,000","Not normal, what a pace.",happiness,admiration,moderate
+"00:25:05,000","00:25:08,000","Press. Oh, press this.",fear,fear,moderate
+"00:25:08,000","00:25:11,000","Then, I think, you have to take back the whole beating lamp.",surprise,confusion,mild
+"00:25:11,000","00:25:14,000","The whole? Yes, then over the grass, right?",happiness,curiosity,mild
+"00:25:16,000","00:25:18,000","Jemmie, no.",disgust,disapproval,mild
+"00:25:18,000","00:25:20,000","I'm going home like that, I think.",neutral,neutral,neutral
+"00:25:20,000","00:25:22,000","No, that cannot be true. Yes, yes.",,,
+"00:25:22,000","00:25:26,000",It is in the middle of the grass. Are you still surprised what we have driving?,surprise,surprise,moderate
+"00:25:26,000","00:25:29,000",Arne takes the last obstacle in Koronel-Style.,happiness,admiration,moderate
+"00:25:29,000","00:25:31,000",How? So with falling streams.,surprise,confusion,mild
+"00:25:31,000","00:25:33,000",Ah. No.,sadness,disappointment,mild
+"00:25:33,000","00:25:35,000","Oh, yes. The is capot.",surprise,realization,mild
+"00:25:35,000","00:25:37,000","Now, it's piece. Well.",neutral,neutral,neutral
+"00:25:37,000","00:25:40,000","If it stays with that. Oh, fine.",happiness,relief,mild
+"00:25:42,000","00:25:43,000",Like this.,neutral,neutral,neutral
+"00:25:43,000","00:25:46,000",That's a shame. The side is nice and open.,sadness,disappointment,mild
+"00:25:46,000","00:25:47,000",Jumpinge.,happiness,excitement,mild
+"00:25:47,000","00:25:51,000",Rikkie has finally found the way to the first test.,happiness,relief,mild
+"00:25:51,000","00:25:54,000",The tension can be read from her face.,fear,nervousness,moderate
+"00:25:55,000","00:25:57,000",Coupling in. Come.,neutral,neutral,neutral
+"00:25:57,000","00:25:59,000","Now it has turned off, Rikkie.",anger,annoyance,mild
+"00:25:59,000","00:26:01,000",She wants me to be the worst driver.,anger,annoyance,moderate
+"00:26:01,000","00:26:02,000",Don't say.,surprise,surprise,mild
+"00:26:02,000","00:26:04,000",Turn a little gas.,neutral,neutral,neutral
+"00:26:07,000","00:26:08,000",That was it.,neutral,neutral,neutral
+"00:26:09,000","00:26:11,000",I only drove damage once.,happiness,pride,mild
+"00:26:11,000","00:26:13,000",That whole side. O.,surprise,surprise,mild
+"00:26:14,000","00:26:15,000",How cool.,happiness,admiration,mild
+"00:26:16,000","00:26:17,000",In itself.,neutral,neutral,neutral
+"00:26:17,000","00:26:19,000",The speed is comfortable. Beats.,neutral,neutral,neutral
+"00:26:19,000","00:26:21,000",No. Just a pity about that damage.,sadness,disappointment,mild
+"00:26:21,000","00:26:24,000",Okay. Fortunately you will find that yourself. Yes.,happiness,relief,mild
+"00:26:25,000","00:26:26,000",O.,neutral,neutral,neutral
+"00:26:27,000","00:26:30,000","Okay. Yes, no. I don't feel like you ...",surprise,confusion,mild
+"00:26:30,000","00:26:32,000",Could it be flawless? I think so.,happiness,optimism,mild
+"00:26:32,000","00:26:34,000",Then why did that happen?,surprise,confusion,mild
+"00:26:34,000","00:26:37,000",Because I was not paying attention to the right.,surprise,realization,mild
+"00:26:37,000","00:26:40,000",I am proud of you that you dare to be next to it.,happiness,pride,moderate
+"00:26:40,000","00:26:43,000",It is the best I have seen driving.,happiness,admiration,moderate
+"00:26:43,000","00:26:47,000",Anne is already on the tea when Rikkie is still busy with test 1.,neutral,neutral,neutral
+"00:26:47,000","00:26:48,000",Oh.,neutral,neutral,neutral
+"00:26:49,000","00:26:51,000",This will take so long.,anger,annoyance,mild
+"00:26:53,000","00:26:54,000",What am I doing?,surprise,confusion,moderate
+"00:26:54,000","00:26:56,000",This will never succeed.,sadness,disappointment,moderate
+"00:26:56,000","00:26:59,000",This disaster is something she can't do at all.,disgust,disapproval,moderate
+"00:26:59,000","00:27:02,000",We go to Rieks last attempt.,neutral,neutral,neutral
+"00:27:02,000","00:27:06,000",It is best to stand straight by car.,neutral,neutral,neutral
+"00:27:06,000","00:27:09,000","Okay, then you will be passed. Stop, Rikkie.",neutral,neutral,neutral
+"00:27:09,000","00:27:11,000","Look, Laasje.",neutral,neutral,neutral
+"00:27:11,000","00:27:12,000",And.,neutral,neutral,neutral
+"00:27:14,000","00:27:16,000",We have one again. Gosh.,surprise,surprise,mild
+"00:27:16,000","00:27:19,000",You can't even drive backwards towards the disaster.,disgust,disapproval,moderate
+"00:27:19,000","00:27:21,000",That cannot be true.,,,
+"00:27:21,000","00:27:23,000","You did best, grandma.",happiness,approval,mild
+"00:27:23,000","00:27:26,000","Riek, it doesn't matter. I can go home.",neutral,neutral,neutral
+"00:27:26,000","00:27:29,000",Certainly not. You are certainly not allowed to go home.,disgust,disapproval,moderate
+"00:27:29,000","00:27:30,000","What a ride, huh.",happiness,amusement,mild
+"00:27:30,000","00:27:32,000","Well, exciting.",happiness,excitement,mild
+"00:27:32,000","00:27:35,000",I was actually a bit too nervous.,fear,nervousness,moderate
+"00:27:35,000","00:27:38,000",And I wanted to do it too well.,happiness,desire,mild
+"00:27:38,000","00:27:41,000",That's just not. It must be built up.,surprise,realization,mild
+"00:27:41,000","00:27:43,000",I made two turns.,neutral,neutral,neutral
+"00:27:43,000","00:27:44,000",And?,happiness,curiosity,mild
+"00:27:44,000","00:27:47,000","In a good half hour, I think.",neutral,neutral,neutral
+"00:27:47,000","00:27:49,000",So I can go home?,happiness,curiosity,mild
+"00:27:49,000","00:27:50,000","No, certainly not.",disgust,disapproval,moderate
+"00:27:50,000","00:27:53,000",We would like to keep you here.,happiness,caring,mild
+"00:27:53,000","00:27:57,000",Because we can give you some tips and tricks.,happiness,approval,mild
+"00:27:57,000","00:27:59,000",Ready for the start. Again.,happiness,excitement,moderate
+"00:28:00,000","00:28:02,000","Even, even.",neutral,neutral,neutral
+"00:28:04,000","00:28:05,000",Feel competition.,happiness,excitement,moderate
+"00:28:05,000","00:28:08,000",This is competition. 100 percent.,happiness,excitement,intense
+"00:28:08,000","00:28:10,000",Okay. Gas.,neutral,neutral,neutral
+"00:28:11,000","00:28:13,000",That's wonderful.,happiness,joy,moderate
+"00:28:13,000","00:28:14,000",Great.,happiness,joy,moderate
+"00:28:14,000","00:28:16,000","No, the cowardly beats at the start.",disgust,disapproval,moderate
+"00:28:17,000","00:28:20,000",Bradley is already parking in reverse.,neutral,neutral,neutral
+"00:28:20,000","00:28:23,000",If hope turns his motorcycle off ...,happiness,curiosity,mild
+"00:28:24,000","00:28:26,000",Then turn tight.,neutral,neutral,neutral
+"00:28:26,000","00:28:28,000",I'm not at all.,neutral,neutral,neutral
+"00:28:28,000","00:28:29,000",You are.,neutral,neutral,neutral
+"00:28:30,000","00:28:32,000",Real? What is he doing?,happiness,curiosity,moderate
+"00:28:32,000","00:28:34,000",He is against it.,disgust,disapproval,mild
+"00:28:34,000","00:28:37,000",And Mitchel and Petra also come to their first test.,neutral,neutral,neutral
+"00:28:37,000","00:28:38,000",The disaster.,sadness,disappointment,moderate
+"00:28:38,000","00:28:41,000",How can I see? I don't see a butt at all?,surprise,confusion,moderate
+"00:28:41,000","00:28:42,000",Oh.,surprise,surprise,mild
+"00:28:43,000","00:28:44,000",Ooh. Okay.,neutral,neutral,neutral
+"00:28:44,000","00:28:46,000",Yes! Isn't that possible?,surprise,surprise,moderate
+"00:28:46,000","00:28:48,000",Waaah!,surprise,surprise,intense
+"00:28:48,000","00:28:51,000","Screaming doesn't work. Screaming, dude.",anger,annoyance,moderate
+"00:28:51,000","00:28:52,000",Waaah!,surprise,surprise,intense
+"00:28:52,000","00:28:53,000",Waaah!,surprise,surprise,intense
+"00:28:54,000","00:28:55,000",And!,neutral,neutral,neutral
+"00:28:55,000","00:28:56,000",Nee.,disgust,disapproval,mild
+"00:28:57,000","00:28:59,000",Did you clear it? Yes.,happiness,curiosity,mild
+"00:28:59,000","00:29:00,000","Well so, honey.",happiness,caring,mild
+"00:29:02,000","00:29:04,000",She just keeps giggling.,happiness,amusement,moderate
+"00:29:04,000","00:29:06,000",It is just like a teletubbie.,happiness,amusement,mild
+"00:29:08,000","00:29:10,000",Soon our day will end there.,neutral,neutral,neutral
+"00:29:10,000","00:29:14,000",It goes seriously wrong with full water in the concrete.,,,
+"00:29:14,000","00:29:16,000",Tackle. After the break.,neutral,neutral,neutral
+"00:29:18,000","00:29:20,000",Back at the baseline measurement.,neutral,neutral,neutral
+"00:29:20,000","00:29:25,000",The Mysteric Bradley and are determined and twice as old friend Michael,happiness,admiration,mild
+"00:29:25,000","00:29:27,000",try to balance the case.,neutral,neutral,neutral
+"00:29:27,000","00:29:29,000","Gases. Yes, I do.",neutral,neutral,neutral
+"00:29:29,000","00:29:32,000","Gas, gas, gas. One now? Stop, stop.",fear,fear,moderate
+"00:29:34,000","00:29:36,000",Just the hands loose. And through.,neutral,neutral,neutral
+"00:29:39,000","00:29:41,000",He doesn't do it like that.,disgust,disapproval,mild
+"00:29:41,000","00:29:45,000",He wants to be backwards. Then he burns his clutch plates.,,,
+"00:29:46,000","00:29:48,000","Yes, but who also comes up with this?",surprise,confusion,moderate
+"00:29:48,000","00:29:50,000",Good question.,happiness,approval,mild
+"00:29:50,000","00:29:52,000",It is impossible.,sadness,disappointment,moderate
+"00:29:52,000","00:29:54,000",I try to turn around.,neutral,neutral,neutral
+"00:29:54,000","00:29:55,000","Oh, that ...",neutral,neutral,neutral
+"00:30:00,000","00:30:03,000","We don't want nothing, but we want work!",happiness,optimism,moderate
+"00:30:03,000","00:30:06,000",Come on. Against the cup. Come on.,,,
+"00:30:09,000","00:30:12,000",Ops. Well it is really broken.,sadness,disappointment,mild
+"00:30:15,000","00:30:17,000","This is the first episode, ladies and gentlemen.",happiness,excitement,moderate
+"00:30:18,000","00:30:19,000",The first.,neutral,neutral,neutral
+"00:30:19,000","00:30:22,000","Yes, me too, dude. And I don't drive.",happiness,amusement,mild
+"00:30:26,000","00:30:28,000","Honey, I can't do anymore.",sadness,sadness,moderate
+"00:30:28,000","00:30:30,000",Ah! Not!,surprise,surprise,moderate
+"00:30:30,000","00:30:32,000",I have the thing.,neutral,neutral,neutral
+"00:30:32,000","00:30:35,000",How do I get away here?,surprise,confusion,moderate
+"00:30:35,000","00:30:37,000","Ja, Rikkie.",neutral,neutral,neutral
+"00:30:37,000","00:30:40,000","Oh, that side. That whole side.",surprise,realization,mild
+"00:30:40,000","00:30:41,000","And, and, and.",neutral,neutral,neutral
+"00:30:41,000","00:30:44,000","Yes, hands loose. By far the best.",happiness,approval,moderate
+"00:30:44,000","00:30:46,000",I don't know all of that.,surprise,confusion,mild
+"00:30:46,000","00:30:49,000","Yes, that I am not going too far. No, and not steer too.",neutral,neutral,neutral
+"00:30:49,000","00:30:51,000","Hands loose. Come on, come.",,,
+"00:30:51,000","00:30:53,000","Further. Yes, yes, we are there.",happiness,relief,moderate
+"00:30:53,000","00:30:56,000","Bradley en Michael, Day 4.",neutral,neutral,neutral
+"00:30:56,000","00:30:57,000",Ah! Twenty.,surprise,surprise,mild
+"00:30:58,000","00:30:59,000",Struggling.,anger,annoyance,moderate
+"00:30:59,000","00:31:02,000","That will not be, you know. Well...",neutral,neutral,neutral
+"00:31:02,000","00:31:06,000","This is going well. Well, again ...",happiness,optimism,mild
+"00:31:06,000","00:31:09,000","Well, lake, drive back again.",neutral,neutral,neutral
+"00:31:11,000","00:31:13,000",What are you going around?,happiness,curiosity,mild
+"00:31:13,000","00:31:16,000","Am I not going well? Yes, I think.",neutral,neutral,neutral
+"00:31:16,000","00:31:19,000",Shall I sit under my car with a pawn?,surprise,confusion,mild
+"00:31:19,000","00:31:21,000","Yes, but this is very tight, right?",neutral,neutral,neutral
+"00:31:21,000","00:31:23,000",You see that anyway ... that doesn't fit?,neutral,neutral,neutral
+"00:31:24,000","00:31:26,000","Yes, but how are you not going to talk about it?",anger,annoyance,mild
+"00:31:26,000","00:31:28,000","Wait, wait, wait.",neutral,neutral,neutral
+"00:31:28,000","00:31:30,000","Here, that doesn't fit.",disgust,disapproval,mild
+"00:31:30,000","00:31:32,000","Ali, this is completely great.",happiness,admiration,moderate
+"00:31:32,000","00:31:35,000","50 meters away on the circuit, Mette is in a nice flow.",happiness,admiration,mild
+"00:31:35,000","00:31:37,000","Yes, this is perfect. Boy, I swear.",happiness,excitement,moderate
+"00:31:37,000","00:31:39,000","Yes, I know. The parking is really immediately.",neutral,neutral,neutral
+"00:31:39,000","00:31:40,000","Oh, the people!",surprise,surprise,mild
+"00:31:40,000","00:31:42,000","Oh, almost.",neutral,neutral,neutral
+"00:31:42,000","00:31:44,000",I'm against all the car.,anger,annoyance,moderate
+"00:31:44,000","00:31:46,000",If you take a look at that side.,happiness,curiosity,mild
+"00:31:46,000","00:31:47,000",And.,neutral,neutral,neutral
+"00:31:47,000","00:31:49,000","That is not possible, boy. No, Joh.",,,
+"00:31:49,000","00:31:51,000","Yes, dude. No, Joh. Yes.",surprise,confusion,mild
+"00:31:51,000","00:31:54,000",How can you already turn off at the start?,surprise,confusion,moderate
+"00:31:54,000","00:31:56,000","Yes, you drove away. That was enthusiasm.",happiness,approval,mild
+"00:31:56,000","00:31:58,000",I thought ... you know ...,neutral,neutral,neutral
+"00:31:58,000","00:32:00,000",Gas!,happiness,excitement,moderate
+"00:32:00,000","00:32:03,000","The pleasure is good, but this was just a little bit too much.",happiness,amusement,mild
+"00:32:03,000","00:32:05,000","You started giggling. Oh, o.",happiness,amusement,mild
+"00:32:05,000","00:32:08,000",You try to get that whole climber under control.,happiness,optimism,moderate
+"00:32:08,000","00:32:10,000",Then you know for sure that you will really take steps.,happiness,optimism,moderate
+"00:32:10,000","00:32:13,000","Because you are not there yet. You realize that too, I hope.",surprise,realization,mild
+"00:32:13,000","00:32:15,000",What happened at that disaster?,happiness,curiosity,moderate
+"00:32:15,000","00:32:17,000",Oh.,surprise,surprise,mild
+"00:32:17,000","00:32:19,000",Oh.,surprise,surprise,mild
+"00:32:19,000","00:32:22,000",It is hysterical. He does not look left and right.,anger,annoyance,moderate
+"00:32:22,000","00:32:25,000","He has three mirrors, but he looks at one side.",neutral,neutral,neutral
+"00:32:25,000","00:32:27,000",Those mirrors were completely irrigated.,neutral,neutral,neutral
+"00:32:27,000","00:32:29,000","Excuses, ja.",neutral,neutral,neutral
+"00:32:29,000","00:32:31,000",Does this sometimes create tension in the car because of this?,happiness,curiosity,mild
+"00:32:31,000","00:32:34,000","So he is not going to drive my car anymore, with this one.",disgust,disapproval,moderate
+"00:32:34,000","00:32:36,000","Are you serious? Yes, yes, seriously.",surprise,surprise,moderate
+"00:32:36,000","00:32:39,000","This really, no way. That he is still going to drive my car.",,,
+"00:32:39,000","00:32:41,000",Which I have only had since a month.,neutral,neutral,neutral
+"00:32:41,000","00:32:44,000",We will set it as a goal that you are making progress so well,happiness,optimism,moderate
+"00:32:44,000","00:32:46,000","that he, the moment he says ...",neutral,neutral,neutral
+"00:32:46,000","00:32:48,000","Well, wow. Yes, I trust you again.",,,
+"00:32:49,000","00:32:52,000","Yes, I think so too. Yes? Yes. Great.",happiness,approval,moderate
+"00:32:52,000","00:32:54,000",We have ended positively.,neutral,neutral,neutral
+"00:32:57,000","00:32:59,000","You're ready, Danisha. Yes.",,,
+"00:32:59,000","00:33:01,000",What energy will you do this with?,happiness,curiosity,mild
+"00:33:01,000","00:33:04,000","Eh, with good energy. Yes.",neutral,neutral,neutral
+"00:33:04,000","00:33:06,000",And just self -confident.,happiness,pride,mild
+"00:33:06,000","00:33:09,000",I am always confident in traffic.,happiness,pride,mild
+"00:33:09,000","00:33:11,000","Put on the helmet, get in. Is good.",neutral,neutral,neutral
+"00:33:11,000","00:33:13,000",Then we can start. In strength.,happiness,optimism,moderate
+"00:33:13,000","00:33:15,000","Iris. Yes, thank you.",happiness,gratitude,mild
+"00:33:19,000","00:33:22,000","Come, stay there. I already have it in his whole move.",neutral,neutral,neutral
+"00:33:24,000","00:33:27,000",Which way do you choose? The outside.,happiness,curiosity,mild
+"00:33:27,000","00:33:30,000",You have to be calm ... no!,anger,annoyance,moderate
+"00:33:30,000","00:33:32,000","Do normal, do it normally!",anger,annoyance,moderate
+"00:33:38,000","00:33:40,000",He just pounds him into the crash barrier.,anger,anger,intense
+"00:33:40,000","00:33:42,000",Oh my god!,surprise,surprise,intense
+"00:33:42,000","00:33:44,000",Just put it on the brake!,fear,fear,intense
+"00:33:44,000","00:33:46,000","No, I'm really getting angry now.",anger,anger,intense
+"00:33:46,000","00:33:48,000","Oh, cunt. What went on?",anger,annoyance,intense
+"00:33:48,000","00:33:52,000",Goddekrug came to avoid the green car of Marjolein and close emergency.,surprise,confusion,moderate
+"00:33:52,000","00:33:54,000",What the ... but it is crazy.,surprise,surprise,moderate
+"00:33:54,000","00:33:56,000",She has noticed anything.,surprise,confusion,mild
+"00:34:01,000","00:34:03,000","But this was, uh ...",neutral,neutral,neutral
+"00:34:03,000","00:34:05,000",Close call. Fair is fair.,happiness,relief,moderate
+"00:34:05,000","00:34:07,000",I went too fast through the ...,neutral,neutral,neutral
+"00:34:07,000","00:34:11,000","Oh, man! I went too hard through the sphere.",,,
+"00:34:11,000","00:34:14,000",I just saw him pass by for that.,surprise,realization,mild
+"00:34:14,000","00:34:18,000",We had not already seen in Spakenburg that Danishia is a cheerful type ...,happiness,amusement,mild
+"00:34:18,000","00:34:20,000",that preferably everything flagged away?,happiness,curiosity,mild
+"00:34:20,000","00:34:23,000","This is the first scissors I have driven, yes.",happiness,pride,mild
+"00:34:23,000","00:34:25,000",I see a pattern.,surprise,realization,mild
+"00:34:25,000","00:34:27,000","Look, Danishia!",happiness,excitement,mild
+"00:34:27,000","00:34:30,000","Yes, I know what I did.",surprise,realization,mild
+"00:34:30,000","00:34:33,000","Yes, but if you do this up, then you have lost me.",sadness,disappointment,moderate
+"00:34:33,000","00:34:36,000",If you rande everything on that wall ...,surprise,confusion,mild
+"00:34:36,000","00:34:38,000",She also touches everything. Jesus.,anger,annoyance,moderate
+"00:34:38,000","00:34:40,000","Park, tap, branch, tap.",neutral,neutral,neutral
+"00:34:40,000","00:34:42,000","No, I really don't think it's okay.",disgust,disapproval,moderate
+"00:34:42,000","00:34:45,000","Iris, please sit in the belt.",happiness,caring,mild
+"00:34:45,000","00:34:47,000","Iris, ready. Oh, cunt.",anger,annoyance,intense
+"00:34:47,000","00:34:50,000",You are completely stressed. Look what you did.,,,
+"00:34:50,000","00:34:54,000","I know what I did, but we just have to continue.",happiness,optimism,moderate
+"00:34:54,000","00:34:57,000","Stay calm. The rest is going well, dude.",neutral,neutral,neutral
+"00:34:57,000","00:34:59,000","Oh, no.",sadness,disappointment,mild
+"00:34:59,000","00:35:02,000","In any case, Marjolein is doing well.",happiness,approval,mild
+"00:35:02,000","00:35:04,000",I'm stuck. He doesn't do it.,anger,annoyance,moderate
+"00:35:04,000","00:35:07,000","At least, until you look a little up close.",happiness,curiosity,mild
+"00:35:07,000","00:35:09,000",Are you watching? Sweetie.,happiness,caring,mild
+"00:35:09,000","00:35:12,000","Yes, then crooked. Maybe it works then.",neutral,neutral,neutral
+"00:35:12,000","00:35:14,000","Oh, go skewed. Yes, yes, yes.",happiness,excitement,moderate
+"00:35:14,000","00:35:17,000",No! Is not coming out either.,anger,annoyance,intense
+"00:35:17,000","00:35:20,000",But at least that is still a bit controlled.,happiness,relief,mild
+"00:35:20,000","00:35:23,000","And. And, stop. And, oh, shit.",anger,annoyance,moderate
+"00:35:23,000","00:35:27,000","I think, I have hit that car 8, 9, 10 times.",fear,embarrassment,moderate
+"00:35:27,000","00:35:29,000",And finally she is in between.,happiness,relief,moderate
+"00:35:29,000","00:35:31,000",Oeh! Oeh! Oeh!,surprise,surprise,moderate
+"00:35:31,000","00:35:34,000","Jesus, after 20 attempts.",anger,annoyance,moderate
+"00:35:34,000","00:35:37,000","Now, be proud of, maid. Anyone.",happiness,pride,mild
+"00:35:37,000","00:35:39,000",It's all fine.,neutral,neutral,neutral
+"00:35:39,000","00:35:42,000",You have to submit now. Yes? To which side?,surprise,confusion,mild
+"00:35:42,000","00:35:44,000",You then pass by. Okay.,neutral,neutral,neutral
+"00:35:44,000","00:35:46,000",Ah!,surprise,surprise,mild
+"00:35:46,000","00:35:48,000",Ah!,surprise,surprise,mild
+"00:35:48,000","00:35:52,000","Oh my God! Yes, but you said. What do you mean?",surprise,confusion,moderate
+"00:35:52,000","00:35:54,000","Jesus, Mina.",anger,annoyance,mild
+"00:35:54,000","00:35:56,000",I've never seen this.,surprise,surprise,moderate
+"00:35:56,000","00:35:58,000",I've never seen this.,surprise,surprise,moderate
+"00:35:58,000","00:36:02,000",I can't see if I am on this thing?,surprise,confusion,mild
+"00:36:02,000","00:36:05,000",If you already feel that you are driving on it ...,surprise,realization,mild
+"00:36:05,000","00:36:08,000",You can see me again with your front wheel too.,neutral,neutral,neutral
+"00:36:08,000","00:36:10,000",Is she called a car herself?,happiness,curiosity,mild
+"00:36:10,000","00:36:14,000","I don't hope so. Yes, a bumper car, I think.",happiness,amusement,mild
+"00:36:14,000","00:36:16,000",What are you doing?,surprise,confusion,mild
+"00:36:16,000","00:36:19,000","You all make your line a small mistake, say.",disgust,disapproval,mild
+"00:36:19,000","00:36:21,000",Back. Back. Ooh!,neutral,neutral,neutral
+"00:36:21,000","00:36:22,000",Pumps him.,neutral,neutral,neutral
+"00:36:22,000","00:36:24,000",HUPTE. Oh!,surprise,surprise,mild
+"00:36:24,000","00:36:26,000",LAUGHTER,happiness,amusement,moderate
+"00:36:26,000","00:36:29,000",Perfect. Hello. Thank you.,happiness,gratitude,mild
+"00:36:29,000","00:36:31,000",But they are going well.,happiness,optimism,mild
+"00:36:31,000","00:36:33,000",Oh!,surprise,surprise,mild
+"00:36:33,000","00:36:35,000",Why does she ride it?,happiness,curiosity,mild
+"00:36:35,000","00:36:37,000",Just ignorance. Want to be too fast.,anger,annoyance,moderate
+"00:36:37,000","00:36:39,000",But that's not right.,disgust,disapproval,mild
+"00:36:39,000","00:36:42,000",Can Denise pick up the concrete cross in the same test?,happiness,curiosity,mild
+"00:36:42,000","00:36:46,000","I really have, yes, a bit of such a fear of fear.",fear,fear,moderate
+"00:36:46,000","00:36:48,000","And from, yes, it is no longer possible.",sadness,disappointment,moderate
+"00:36:48,000","00:36:52,000","And a bit ... stop, stop, stop!",fear,fear,intense
+"00:36:52,000","00:36:54,000",You have one thing there. O.,surprise,confusion,mild
+"00:36:54,000","00:36:57,000","Yes, it's really going that bad.",sadness,disappointment,moderate
+"00:36:57,000","00:36:59,000",What are you doing?,surprise,confusion,moderate
+"00:36:59,000","00:37:01,000",She thinks this looks like driving.,disgust,disapproval,mild
+"00:37:02,000","00:37:04,000",It's not going.,sadness,disappointment,moderate
+"00:37:04,000","00:37:06,000","Stop, stop, stop.",fear,fear,intense
+"00:37:06,000","00:37:08,000","No, it's not going here.",sadness,disappointment,moderate
+"00:37:08,000","00:37:12,000","Yes, but look, now I'm against this car.",anger,annoyance,moderate
+"00:37:12,000","00:37:14,000","Yes, I miss this mirror now, so ...",neutral,neutral,neutral
+"00:37:14,000","00:37:17,000","O. Yes, you say now it is going well.",surprise,confusion,mild
+"00:37:17,000","00:37:19,000","And then I clock, yes.",neutral,neutral,neutral
+"00:37:19,000","00:37:21,000",I don't know which mirror you are looking.,surprise,confusion,mild
+"00:37:21,000","00:37:23,000",We go straight on. Okay.,neutral,neutral,neutral
+"00:37:23,000","00:37:25,000",She goes again. She goes again.,neutral,neutral,neutral
+"00:37:27,000","00:37:29,000","Yes, you say turn back.",surprise,confusion,mild
+"00:37:29,000","00:37:31,000",What is this?,surprise,confusion,moderate
+"00:37:31,000","00:37:33,000",Just can't drive.,disgust,disapproval,moderate
+"00:37:33,000","00:37:35,000",I really think I have to stop. Take it off.,surprise,realization,moderate
+"00:37:35,000","00:37:37,000","Yes, it's not going anymore. I see it, I notice it.",sadness,disappointment,moderate
+"00:37:37,000","00:37:39,000",It's not going anymore. Come out.,sadness,disappointment,moderate
+"00:37:39,000","00:37:43,000","Yes, I don't know. I just have a blockade.",anger,annoyance,moderate
+"00:37:43,000","00:37:45,000",And yes ... we know enough now.,surprise,realization,mild
+"00:37:45,000","00:37:47,000",Okay. We know enough now.,surprise,realization,mild
+"00:37:49,000","00:37:51,000","Oh yes, of course I can't do here.",surprise,realization,mild
+"00:37:51,000","00:37:53,000","Erik, we have to go to you.",neutral,neutral,neutral
+"00:37:53,000","00:37:55,000",Mine can no longer be open.,neutral,neutral,neutral
+"00:37:55,000","00:37:59,000",MUSIC,neutral,neutral,neutral
+"00:37:59,000","00:38:01,000",Marjolein closes just as more.,neutral,neutral,neutral
+"00:38:01,000","00:38:04,000",LAUGHTER,happiness,amusement,mild
+"00:38:04,000","00:38:06,000",The WIP-Wap will be a success.,happiness,optimism,moderate
+"00:38:06,000","00:38:09,000",Stress of the almost accident seems to be forgotten again.,happiness,relief,moderate
+"00:38:11,000","00:38:14,000",Very good. Eigenvinst. Tasty.,happiness,approval,mild
+"00:38:14,000","00:38:17,000",It went controlled. Yes.,happiness,relief,mild
+"00:38:17,000","00:38:19,000","So you know, you can do it somewhere.",happiness,optimism,mild
+"00:38:19,000","00:38:22,000","Driving away, then you take that whole block with you.",disgust,disapproval,mild
+"00:38:23,000","00:38:25,000",Oh!,surprise,surprise,mild
+"00:38:25,000","00:38:29,000",Do calmly. I am convinced that it will come ok.,happiness,optimism,moderate
+"00:38:29,000","00:38:31,000","Look, he's stuck.",neutral,neutral,neutral
+"00:38:31,000","00:38:34,000","I can't open anymore. Yes, he's stuck.",anger,annoyance,moderate
+"00:38:34,000","00:38:36,000","Yes, it actually comes loose.",happiness,relief,mild
+"00:38:36,000","00:38:38,000",It has become a cookie tin.,happiness,amusement,mild
+"00:38:38,000","00:38:41,000","You have made damage, say. Wow.",disgust,disapproval,moderate
+"00:38:41,000","00:38:44,000",Cheer,happiness,joy,mild
+"00:38:47,000","00:38:51,000",How can you go in a bend at such a speed?,disgust,disapproval,moderate
+"00:38:51,000","00:38:54,000",I just didn't have it well.,neutral,neutral,neutral
+"00:38:54,000","00:38:57,000","I just didn't have it well, that bend.",neutral,neutral,neutral
+"00:38:57,000","00:39:00,000",I really didn't have it well.,neutral,neutral,neutral
+"00:39:00,000","00:39:02,000",So yes ...,neutral,neutral,neutral
+"00:39:04,000","00:39:06,000",Can I congratulate you?,happiness,curiosity,mild
+"00:39:06,000","00:39:10,000",Yes. What do you think you want to congratulate with?,happiness,curiosity,mild
+"00:39:10,000","00:39:12,000",With the fact that I survived.,happiness,relief,moderate
+"00:39:12,000","00:39:14,000",No. Oh.,surprise,surprise,mild
+"00:39:14,000","00:39:18,000",I have to congratulate you that I have been in the worst driver in the Netherlands for seven years.,happiness,amusement,moderate
+"00:39:18,000","00:39:22,000",The first time is that after 200 meters someone drives out the entire side.,surprise,surprise,moderate
+"00:39:22,000","00:39:24,000",And.,neutral,neutral,neutral
+"00:39:24,000","00:39:26,000",Cheer,happiness,joy,mild
+"00:39:28,000","00:39:32,000",Why don't you stop? I think I said stop or something or brake.,anger,annoyance,moderate
+"00:39:32,000","00:39:35,000",Yes. I think I'm in a kind of ...,surprise,confusion,mild
+"00:39:35,000","00:39:38,000","Laughing shower? No, yes. Mindset.",happiness,amusement,mild
+"00:39:38,000","00:39:41,000",And I just didn't get out of it anymore.,anger,annoyance,moderate
+"00:39:41,000","00:39:45,000",You understand that a normal person after such an accident ...,surprise,realization,mild
+"00:39:45,000","00:39:48,000",Just have to catch your breath and really stops. Yes.,surprise,realization,moderate
+"00:39:48,000","00:39:51,000",I think you belong well here in the program.,happiness,approval,mild
+"00:39:51,000","00:39:53,000",Okay. Yeah.,neutral,neutral,neutral
+"00:39:55,000","00:39:58,000",I really feel it on my leg.,neutral,neutral,neutral
+"00:39:58,000","00:40:00,000",This is really incredible.,surprise,surprise,moderate
+"00:40:00,000","00:40:02,000",It is incomprehensible.,surprise,confusion,moderate
+"00:40:02,000","00:40:05,000","Yes, but this is just handsome. This is really handsome.",happiness,admiration,moderate
+"00:40:06,000","00:40:08,000",Can anyone go home already?,happiness,curiosity,mild
+"00:40:08,000","00:40:11,000",After all the years that I present this program ...,happiness,pride,mild
+"00:40:11,000","00:40:15,000",I have never been able to shoot anyone in my episode 1.,surprise,surprise,moderate
+"00:40:15,000","00:40:18,000","Oeh, Oeh, Oeh.",surprise,surprise,mild
+"00:40:18,000","00:40:20,000",Aaaaah!,surprise,surprise,intense
+"00:40:20,000","00:40:22,000","Oeh, Oeh, Oeh.",surprise,surprise,mild
+"00:40:22,000","00:40:24,000","Oeh, Oeh, Oeh.",surprise,surprise,mild
+"00:40:24,000","00:40:26,000",Aaaaah!,surprise,surprise,intense
+"00:40:26,000","00:40:28,000",Aaaaah!,surprise,surprise,intense
+"00:40:28,000","00:40:30,000","Stay safe, drive safe.",happiness,caring,mild
+"00:40:30,000","00:40:32,000",See you next week.,neutral,neutral,neutral
+"00:40:32,000","00:40:36,000",Next week the accident of Danicia appears to be far from forgotten.,sadness,sadness,moderate
+"00:40:36,000","00:40:38,000",She doesn't want to say sorry.,disgust,disapproval,moderate
+"00:40:38,000","00:40:41,000",That is very scary for me to get back in again.,fear,fear,moderate
+"00:40:41,000","00:40:43,000",Is there a new concrete wall on it?,happiness,curiosity,mild
+"00:40:44,000","00:40:46,000",And are we going through a night?,happiness,curiosity,mild
+"00:40:46,000","00:40:47,000",Oh!,surprise,surprise,mild
+"00:40:47,000","00:40:50,000",Sleep well and see you next week.,happiness,caring,mild
+"00:40:50,000","00:40:52,000",Aaaaah!,surprise,surprise,intense
+"00:40:52,000","00:40:54,000",Aaaaah!,surprise,surprise,intense
+"00:40:58,000","00:41:00,000",TV Gelderland 2021,neutral,neutral,neutral
+"00:41:28,000","00:41:30,000",TV Gelderland 2021,neutral,neutral,neutral

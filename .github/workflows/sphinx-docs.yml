@@ -1,0 +1,75 @@
+name: Sphinx Docs (Build & Deploy)
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          version: 2.1.3
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+
+      - name: Load cached venv
+        id: cached-poetry-dependencies
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
+
+      - name: Install dependencies
+        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+        run: poetry install --no-interaction --no-ansi
+
+      - name: Build Sphinx documentation
+        run: |
+          # Create _static directory if it doesn't exist
+          mkdir -p docs/_static
+          # Build documentation with Poetry (removed -W flag to allow warnings)
+          poetry run sphinx-build -b html --keep-going docs docs/_build/html
+
+      - name: Upload documentation artifact
+        uses: actions/upload-pages-artifact@v3
+        if: success()
+        with:
+          path: docs/_build/html/
+
+  deploy-docs:
+    # Only deploy on pushes to main branch (not on PRs)
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    needs: build-docs
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
