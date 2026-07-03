@@ -1,11 +1,11 @@
-
+ 
 <div align="center">
 
 <h1 style="color: #2563eb; margin-bottom: 10px;">Emotion Classification Pipeline</h1>
 
 <p style="font-size: 18px; color: #64748b; margin-bottom: 20px;">
   <strong>Advanced NLP tool for extracting emotional insights from video and audio content</strong>
-</p>
+</p> 
 
 <div style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python 3.11">
