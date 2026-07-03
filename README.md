@@ -22,7 +22,7 @@
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 30px auto; max-width: 800px;">
-  <img src="./assets/dashboard_screenshot.png" alt="Dashboard Preview" style="width: 100%; border-radius: 13px; display: block;">
+  <img src="./assets/dashboard_screenshot_img.png" alt="Dashboard Preview" style="width: 100%; border-radius: 13px; display: block;">
 </div>
 
 <div style="margin: 30px 0;">
